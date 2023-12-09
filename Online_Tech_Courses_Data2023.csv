@@ -1,0 +1,1356 @@
+User_ID,Cust_name,Course_ID,Course_Name,Gender,Age Group,Age,Marital_Status,State,Zone,Occupation,Course_Category,Orders,Amount
+9325804,Customer_0,C00004,Data Science,M,0-17,55,1,Illinois,Central,Professional,Technology,4,72.21
+2484405,Customer_1,C00001,Graphic Design,F,36-45,51,1,Florida,Western,Student,Technology,4,181.8
+,,,,,,,,,,,,,
+3215104,Customer_2,C00002,Web Development,M,0-17,14,1,California,Southern,Student,Business,4,371.77
+6157699,Customer_3,C00003,Digital Marketing,F,46-55,39,1,Illinois,Eastern,Self-Employed,Technology,1,238.15
+9222403,Customer_4,C00001,Data Science,M,18-25,37,1,Illinois,Central,Professional,Arts,4,127.83
+8644169,Customer_5,C00002,Web Development,M,46-55,27,1,California,Central,Professional,Technology,3,98.24
+6853461,Customer_6,C00001,Digital Marketing,M,55+,45,1,Texas,Eastern,Student,Technology,1,417.8
+7739698,Customer_7,C00004,Graphic Design,M,0-17,12,0,Florida,Central,Professional,Business,2,262.91
+1374564,Customer_8,C00002,Data Science,F,36-45,30,0,New York,Western,Professional,Technology,4,447.03
+3832983,Customer_9,C00003,Data Science,F,26-35,55,0,Texas,Western,Student,Technology,2,379.98
+5930630,Customer_10,C00000,Python Programming,F,18-25,25,1,New York,Southern,Student,Technology,3,234.38
+9699352,Customer_11,C00003,Digital Marketing,F,46-55,46,1,Florida,Northern,Unemployed,Arts,4,218.08
+3701626,Customer_12,C00002,Python Programming,F,46-55,51,1,Texas,Eastern,Unemployed,Technology,2,282.04
+5735681,Customer_13,C00003,Graphic Design,M,46-55,14,1,Illinois,Western,Unemployed,Business,3,450.08
+7662231,Customer_14,C00000,Python Programming,F,0-17,59,0,Texas,Western,Unemployed,Technology,4,381.78
+8036504,Customer_15,C00000,Web Development,M,0-17,23,0,New York,Western,Professional,Technology,3,52.32
+1606745,Customer_16,C00000,Data Science,F,26-35,40,1,Illinois,Western,Self-Employed,Technology,4,362.37
+,,,,,,,,,,,,,
+4107661,Customer_17,C00003,Python Programming,M,55+,55,0,California,Southern,Student,Arts,3,463.78
+7264904,Customer_18,C00002,Python Programming,F,0-17,33,1,Texas,Central,Student,Technology,2,369.71
+6118729,Customer_19,C00003,Digital Marketing,M,36-45,44,1,Texas,Western,Retired,Business,1,129.65
+3951283,Customer_20,C00000,Digital Marketing,F,36-45,45,1,Illinois,Southern,Self-Employed,Arts,4,267.58
+5527056,Customer_21,C00004,Python Programming,F,46-55,19,1,Texas,Northern,Self-Employed,Technology,4,113.14
+3527987,Customer_22,C00000,Web Development,M,18-25,36,1,Illinois,Central,Student,Business,1,211.55
+1532165,Customer_23,C00000,Python Programming,M,46-55,36,0,California,Northern,Self-Employed,Technology,2,471.7
+4491838,Customer_24,C00002,Web Development,M,36-45,32,0,Texas,Central,Retired,Technology,4,465.49
+9829778,Customer_25,C00003,Python Programming,F,36-45,22,0,New York,Central,Professional,Technology,1,177.28
+5087907,Customer_26,C00002,Graphic Design,F,36-45,25,0,Texas,Central,Unemployed,Business,1,202.83
+1556209,Customer_27,C00003,Graphic Design,F,46-55,44,1,Illinois,Southern,Retired,Technology,2,320.1
+3327283,Customer_28,C00000,Python Programming,M,26-35,36,0,Illinois,Eastern,Unemployed,Business,1,483.44
+5064029,Customer_29,C00000,Digital Marketing,M,18-25,48,0,New York,Northern,Student,Technology,4,116.51
+5668302,Customer_30,C00000,Web Development,F,26-35,56,0,New York,Central,Professional,Business,2,165.61
+9085927,Customer_31,C00003,Graphic Design,M,26-35,26,0,Illinois,Central,Retired,Business,3,443.1
+4449376,Customer_32,C00000,Web Development,M,18-25,57,1,Illinois,Western,Self-Employed,Arts,3,271.35
+2884874,Customer_33,C00002,Data Science,F,36-45,50,1,Texas,Western,Professional,Technology,4,454.53
+3574580,Customer_34,C00002,Digital Marketing,M,36-45,10,1,Illinois,Southern,Retired,Technology,1,133.48
+5055191,Customer_35,C00000,Digital Marketing,M,46-55,20,1,New York,Central,Professional,Technology,2,289.7
+4419595,Customer_36,C00004,Data Science,M,46-55,21,1,Texas,Northern,Student,Technology,3,196.82
+8329820,Customer_37,C00003,Digital Marketing,F,26-35,23,0,Illinois,Northern,Self-Employed,Technology,2,192.44
+9708898,Customer_38,C00004,Graphic Design,M,18-25,17,1,California,Western,Unemployed,Technology,4,251.09
+2924149,Customer_39,C00000,Data Science,F,18-25,40,0,New York,Western,Unemployed,Arts,4,244.88
+6314437,Customer_40,C00004,Graphic Design,M,0-17,16,0,California,Eastern,Unemployed,Technology,2,210.81
+2094020,Customer_41,C00003,Graphic Design,F,0-17,55,1,Texas,Central,Retired,Technology,2,461.74
+4140650,Customer_42,C00003,Data Science,M,26-35,40,1,New York,Central,Professional,Technology,4,379.28
+1570810,Customer_43,C00004,Web Development,F,46-55,25,1,Texas,Western,Self-Employed,Business,4,377.4
+1020737,Customer_44,C00001,Web Development,F,36-45,51,1,Florida,Western,Self-Employed,Arts,1,180.46
+7975463,Customer_45,C00003,Digital Marketing,M,55+,48,1,New York,Western,Retired,Technology,3,309.97
+8008169,Customer_46,C00000,Data Science,M,36-45,53,0,Texas,Eastern,Self-Employed,Arts,1,400.63
+5548665,Customer_47,C00000,Graphic Design,F,26-35,28,0,California,Eastern,Self-Employed,Business,2,408.02
+4420006,Customer_48,C00000,Web Development,M,18-25,17,1,Texas,Eastern,Professional,Technology,3,205.04
+1086107,Customer_49,C00001,Web Development,F,0-17,38,0,Illinois,Central,Professional,Technology,1,396.89
+3946944,Customer_50,C00000,Digital Marketing,M,46-55,11,0,Illinois,Eastern,Professional,Technology,3,381.15
+2844789,Customer_51,C00004,Digital Marketing,F,18-25,51,1,California,Central,Retired,Technology,1,113.68
+4558284,Customer_52,C00001,Digital Marketing,M,46-55,12,1,Texas,Western,Retired,Business,2,439.68
+5730964,Customer_53,C00003,Digital Marketing,M,46-55,38,1,New York,Central,Retired,Technology,4,248.59
+7277323,Customer_54,C00001,Data Science,M,26-35,24,0,California,Northern,Self-Employed,Technology,3,268.88
+1397636,Customer_55,C00000,Python Programming,M,0-17,47,0,Texas,Southern,Unemployed,Technology,2,251.77
+9237830,Customer_56,C00000,Web Development,F,0-17,37,1,Florida,Western,Self-Employed,Technology,2,305.53
+3071492,Customer_57,C00004,Digital Marketing,F,55+,46,1,Illinois,Northern,Professional,Technology,4,329.53
+2917999,Customer_58,C00003,Graphic Design,M,36-45,41,0,California,Southern,Unemployed,Technology,4,274.18
+8926399,Customer_59,C00003,Web Development,F,18-25,39,0,Texas,Northern,Student,Business,4,440.05
+5953219,Customer_60,C00001,Digital Marketing,M,55+,56,0,Florida,Southern,Unemployed,Arts,3,332.48
+4283812,Customer_61,C00000,Digital Marketing,F,55+,39,1,Illinois,Southern,Professional,Technology,4,230.64
+2314638,Customer_62,C00000,Data Science,F,18-25,43,1,Florida,Eastern,Professional,Technology,3,237.51
+7300815,Customer_63,C00001,Python Programming,M,55+,22,0,California,Northern,Professional,Business,4,414.88
+9767124,Customer_64,C00002,Python Programming,F,0-17,42,1,Texas,Northern,Professional,Technology,1,206.69
+9891087,Customer_65,C00000,Data Science,M,46-55,51,0,Florida,Western,Student,Technology,1,145.15
+5295565,Customer_66,C00003,Graphic Design,M,36-45,26,1,Florida,Central,Unemployed,Arts,2,76.72
+1341845,Customer_67,C00001,Python Programming,M,55+,12,0,Florida,Northern,Student,Technology,1,444.21
+4416624,Customer_68,C00001,Graphic Design,M,36-45,18,1,New York,Northern,Self-Employed,Arts,4,463.35
+7288689,Customer_69,C00004,Web Development,M,46-55,20,1,Florida,Western,Unemployed,Arts,3,104.05
+5302405,Customer_70,C00000,Web Development,F,36-45,58,1,Texas,Western,Self-Employed,Technology,3,200.51
+6453993,Customer_71,C00000,Python Programming,F,46-55,36,1,Texas,Eastern,Self-Employed,Technology,4,128.92
+2513123,Customer_72,C00003,Python Programming,M,36-45,37,0,Texas,Central,Self-Employed,Arts,3,102.15
+7604224,Customer_73,C00002,Web Development,M,0-17,11,0,Illinois,Central,Professional,Technology,2,454.94
+3923717,Customer_74,C00003,Web Development,M,55+,10,0,Florida,Eastern,Unemployed,Technology,1,75.59
+8958110,Customer_75,C00002,Python Programming,M,36-45,15,1,California,Western,Retired,Arts,4,491.22
+,,,,,,,,,,,,,
+8526257,Customer_76,C00004,Web Development,F,36-45,34,1,Illinois,Western,Unemployed,Arts,1,93.4
+9621746,Customer_77,C00003,Python Programming,F,18-25,44,1,New York,Western,Professional,Business,1,438.56
+8664932,Customer_78,C00003,Data Science,M,36-45,25,1,Texas,Northern,Unemployed,Business,4,304.93
+8781930,Customer_79,C00000,Digital Marketing,M,55+,13,0,New York,Central,Professional,Business,4,215.56
+1852941,Customer_80,C00003,Python Programming,F,55+,56,0,Illinois,Central,Unemployed,Business,1,204.05
+5411760,Customer_81,C00000,Graphic Design,M,46-55,47,0,New York,Southern,Unemployed,Technology,4,390.81
+9334229,Customer_82,C00004,Python Programming,F,0-17,53,0,Illinois,Southern,Self-Employed,Business,1,191.56
+5219081,Customer_83,C00002,Web Development,F,36-45,29,0,New York,Northern,Student,Technology,1,345.79
+2960319,Customer_84,C00003,Graphic Design,F,0-17,34,0,Texas,Northern,Unemployed,Technology,1,282.8
+1538112,Customer_85,C00004,Graphic Design,F,0-17,16,1,Florida,Central,Retired,Technology,4,268.23
+2308554,Customer_86,C00000,Digital Marketing,F,36-45,30,1,Texas,Southern,Student,Business,4,455.52
+7687090,Customer_87,C00002,Python Programming,F,18-25,16,0,Texas,Eastern,Retired,Arts,2,299.59
+1298367,Customer_88,C00003,Data Science,F,26-35,38,1,Texas,Western,Unemployed,Technology,1,422.09
+2824443,Customer_89,C00003,Graphic Design,F,36-45,16,0,Florida,Central,Professional,Arts,1,376.51
+7615170,Customer_90,C00001,Graphic Design,F,26-35,12,0,Texas,Eastern,Unemployed,Technology,1,67.35
+5987257,Customer_91,C00003,Data Science,F,36-45,38,1,Illinois,Northern,Self-Employed,Technology,2,397.9
+7772834,Customer_92,C00004,Graphic Design,F,0-17,38,0,New York,Western,Professional,Technology,1,147.59
+7741566,Customer_93,C00003,Web Development,M,36-45,48,1,Florida,Northern,Retired,Technology,2,456.42
+1861091,Customer_94,C00003,Data Science,M,26-35,47,0,California,Southern,Unemployed,Technology,2,69.32
+2145566,Customer_95,C00001,Web Development,F,0-17,15,0,Illinois,Eastern,Unemployed,Technology,4,199.88
+8075963,Customer_96,C00001,Python Programming,F,36-45,55,0,Florida,Western,Professional,Arts,2,94.88
+,,,,,,,,,,,,,
+9497091,Customer_97,C00001,Python Programming,F,18-25,19,0,New York,Western,Unemployed,Technology,4,264.02
+5577874,Customer_98,C00003,Python Programming,F,46-55,46,1,Florida,Northern,Student,Business,3,419.01
+1838371,Customer_99,C00002,Web Development,M,36-45,23,0,Illinois,Central,Retired,Business,1,184.18
+4495301,Customer_100,C00001,Data Science,F,55+,38,0,California,Western,Self-Employed,Technology,3,192.73
+3019559,Customer_101,C00001,Data Science,F,18-25,32,0,California,Eastern,Professional,Technology,4,288.19
+6927649,Customer_102,C00001,Web Development,M,46-55,24,1,New York,Western,Student,Technology,3,470.16
+6096305,Customer_103,C00004,Digital Marketing,M,26-35,10,0,Illinois,Central,Student,Arts,1,305.01
+,,,,,,,,,,,,,
+1837404,Customer_104,C00000,Data Science,M,36-45,47,1,California,Western,Retired,Technology,1,164.85
+4435764,Customer_105,C00001,Graphic Design,F,55+,19,1,California,Western,Student,Technology,1,358.07
+1179265,Customer_106,C00002,Python Programming,F,18-25,43,0,Florida,Western,Self-Employed,Arts,2,334.88
+2931989,Customer_107,C00004,Python Programming,M,55+,50,1,Illinois,Central,Retired,Arts,2,86.75
+3561788,Customer_108,C00000,Data Science,F,26-35,50,1,Florida,Central,Retired,Technology,2,396.57
+4015026,Customer_109,C00004,Digital Marketing,F,55+,17,0,California,Central,Retired,Technology,2,90.58
+5103073,Customer_110,C00003,Data Science,F,18-25,36,1,Illinois,Central,Professional,Business,3,332.85
+8754851,Customer_111,C00001,Graphic Design,F,55+,39,0,Illinois,Western,Student,Technology,2,360.73
+1171993,Customer_112,C00002,Data Science,M,26-35,27,0,Illinois,Eastern,Professional,Technology,1,316.94
+6617221,Customer_113,C00000,Web Development,M,46-55,20,0,Texas,Northern,Unemployed,Technology,4,217.97
+6191617,Customer_114,C00004,Data Science,M,26-35,53,1,New York,Northern,Retired,Technology,4,322.59
+7604387,Customer_115,C00000,Web Development,F,26-35,43,0,New York,Western,Unemployed,Technology,4,298.67
+5992665,Customer_116,C00003,Digital Marketing,F,0-17,11,1,California,Southern,Professional,Arts,1,317.84
+9299620,Customer_117,C00002,Digital Marketing,F,46-55,48,1,New York,Northern,Student,Technology,4,414.39
+5103788,Customer_118,C00004,Graphic Design,F,55+,29,1,Illinois,Central,Retired,Business,2,421.69
+8638194,Customer_119,C00003,Digital Marketing,F,36-45,39,1,Texas,Southern,Unemployed,Arts,3,390.54
+8341467,Customer_120,C00002,Web Development,M,55+,16,0,New York,Eastern,Unemployed,Business,4,267.03
+1462944,Customer_121,C00001,Digital Marketing,M,55+,15,0,New York,Southern,Retired,Arts,3,209.79
+8540499,Customer_122,C00000,Web Development,M,18-25,14,1,Texas,Eastern,Self-Employed,Technology,4,445.23
+2136994,Customer_123,C00003,Graphic Design,F,26-35,12,1,Florida,Southern,Retired,Technology,3,444.54
+4874916,Customer_124,C00000,Web Development,F,26-35,50,0,California,Northern,Unemployed,Business,3,416.14
+9776938,Customer_125,C00000,Data Science,M,46-55,50,1,Illinois,Central,Professional,Technology,2,447.96
+6814792,Customer_126,C00003,Digital Marketing,F,0-17,26,0,Texas,Eastern,Professional,Arts,3,227.87
+4668179,Customer_127,C00003,Python Programming,F,55+,17,0,Florida,Eastern,Unemployed,Arts,3,290.5
+8732142,Customer_128,C00004,Data Science,F,18-25,50,1,California,Southern,Professional,Technology,4,306.45
+9326240,Customer_129,C00002,Web Development,F,36-45,34,1,Florida,Central,Professional,Technology,2,373.07
+9680299,Customer_130,C00001,Data Science,F,26-35,33,0,California,Western,Self-Employed,Business,1,401.97
+9616325,Customer_131,C00002,Data Science,F,0-17,32,0,New York,Eastern,Unemployed,Technology,2,302.99
+1405845,Customer_132,C00001,Data Science,M,18-25,51,1,Texas,Central,Student,Arts,1,456.23
+2055000,Customer_133,C00001,Data Science,M,18-25,16,0,California,Western,Self-Employed,Business,4,151.09
+9752583,Customer_134,C00004,Web Development,F,36-45,24,1,Texas,Eastern,Unemployed,Business,4,233.91
+2147123,Customer_135,C00002,Digital Marketing,M,46-55,49,0,Texas,Central,Professional,Technology,2,75.78
+2015580,Customer_136,C00003,Digital Marketing,F,55+,34,0,Florida,Eastern,Professional,Business,3,491.86
+2884534,Customer_137,C00000,Data Science,F,18-25,41,1,Illinois,Northern,Student,Technology,4,410.6
+9532831,Customer_138,C00004,Python Programming,F,18-25,30,0,Florida,Central,Professional,Technology,3,105.59
+4084353,Customer_139,C00004,Digital Marketing,F,55+,28,1,Florida,Southern,Student,Technology,3,200.27
+6704144,Customer_140,C00004,Web Development,F,36-45,45,0,Illinois,Southern,Professional,Technology,1,290.44
+8133554,Customer_141,C00003,Web Development,F,55+,42,1,Illinois,Western,Retired,Technology,1,183.47
+,,,,,,,,,,,,,
+4037039,Customer_142,C00000,Digital Marketing,F,26-35,30,1,Florida,Northern,Retired,Business,2,103.06
+9362181,Customer_143,C00001,Web Development,F,46-55,34,1,Texas,Western,Professional,Business,4,319.42
+6788802,Customer_144,C00003,Web Development,M,36-45,42,1,New York,Southern,Student,Business,1,150.64
+6091867,Customer_145,C00002,Graphic Design,M,26-35,37,0,Illinois,Central,Student,Technology,2,334.81
+4074792,Customer_146,C00002,Web Development,M,36-45,54,0,New York,Northern,Self-Employed,Arts,2,360.89
+7012051,Customer_147,C00003,Digital Marketing,M,55+,46,0,Texas,Eastern,Retired,Arts,4,416.35
+6246863,Customer_148,C00004,Digital Marketing,F,55+,28,0,Illinois,Eastern,Self-Employed,Technology,4,250.96
+9035101,Customer_149,C00003,Python Programming,M,36-45,32,0,California,Central,Student,Technology,1,364.24
+3475427,Customer_150,C00000,Data Science,M,55+,44,0,California,Southern,Professional,Arts,4,65.82
+6519664,Customer_151,C00001,Digital Marketing,M,36-45,41,0,Florida,Western,Retired,Technology,4,333.93
+5522929,Customer_152,C00001,Web Development,M,0-17,28,0,New York,Southern,Unemployed,Business,2,245.55
+3491216,Customer_153,C00001,Python Programming,F,55+,24,0,California,Central,Professional,Technology,3,414.08
+5354232,Customer_154,C00001,Graphic Design,F,36-45,17,0,Florida,Southern,Student,Business,1,494.55
+2818943,Customer_155,C00004,Python Programming,M,55+,21,0,Florida,Western,Retired,Technology,3,181.59
+4546584,Customer_156,C00002,Web Development,F,26-35,20,0,Florida,Western,Student,Business,2,452.5
+1746938,Customer_157,C00002,Digital Marketing,F,26-35,48,0,Texas,Northern,Student,Technology,1,97.7
+7697861,Customer_158,C00003,Python Programming,M,18-25,51,0,New York,Northern,Unemployed,Technology,3,253.57
+3020602,Customer_159,C00001,Web Development,F,55+,32,0,Illinois,Northern,Student,Technology,4,362.88
+9376893,Customer_160,C00002,Graphic Design,M,0-17,10,1,Florida,Southern,Student,Technology,4,438.4
+6295210,Customer_161,C00000,Python Programming,F,26-35,44,0,Illinois,Eastern,Student,Technology,2,149.55
+8276589,Customer_162,C00003,Web Development,M,0-17,27,0,California,Southern,Unemployed,Technology,4,271.69
+5166624,Customer_163,C00004,Data Science,F,18-25,52,1,Texas,Western,Self-Employed,Business,1,489.16
+2943102,Customer_164,C00002,Digital Marketing,M,0-17,16,0,Illinois,Northern,Student,Business,1,381.77
+4460118,Customer_165,C00001,Web Development,M,26-35,13,0,Florida,Central,Student,Business,4,227.3
+8142149,Customer_166,C00004,Data Science,M,46-55,50,0,Texas,Eastern,Professional,Technology,3,273.9
+1915005,Customer_167,C00000,Digital Marketing,F,0-17,37,1,Florida,Southern,Retired,Technology,3,463.84
+1086416,Customer_168,C00000,Digital Marketing,M,55+,22,0,Texas,Eastern,Retired,Arts,2,269.06
+5033851,Customer_169,C00000,Digital Marketing,F,0-17,49,0,Illinois,Central,Retired,Technology,2,76.14
+8077060,Customer_170,C00004,Data Science,F,46-55,31,0,Illinois,Northern,Retired,Business,1,142.11
+4917116,Customer_171,C00002,Python Programming,F,36-45,35,1,California,Northern,Retired,Technology,1,51.69
+9950926,Customer_172,C00002,Data Science,F,46-55,10,1,New York,Western,Professional,Technology,4,266.1
+9717165,Customer_173,C00001,Data Science,F,36-45,53,0,Florida,Southern,Unemployed,Technology,2,488.03
+6840701,Customer_174,C00004,Web Development,F,46-55,44,0,Florida,Western,Retired,Arts,4,411.11
+5947589,Customer_175,C00002,Web Development,M,0-17,11,0,California,Eastern,Professional,Technology,3,68.58
+,,,,,,,,,,,,,
+8469540,Customer_176,C00003,Graphic Design,M,36-45,58,1,Texas,Central,Professional,Business,3,468.89
+5323668,Customer_177,C00001,Data Science,M,36-45,53,0,Texas,Central,Student,Business,1,100.09
+3642418,Customer_178,C00002,Data Science,F,46-55,47,1,Illinois,Western,Retired,Arts,4,60.35
+3362966,Customer_179,C00003,Graphic Design,F,0-17,56,1,Illinois,Western,Professional,Technology,4,145.22
+8547835,Customer_180,C00001,Data Science,F,0-17,53,0,Florida,Eastern,Professional,Technology,1,275.07
+3365243,Customer_181,C00000,Data Science,M,0-17,35,0,New York,Northern,Professional,Arts,3,84.99
+3729102,Customer_182,C00000,Graphic Design,F,36-45,33,1,Florida,Central,Professional,Business,2,401.61
+2239027,Customer_183,C00003,Graphic Design,F,36-45,52,0,Texas,Western,Self-Employed,Technology,1,57.87
+4225008,Customer_184,C00000,Graphic Design,M,55+,14,0,New York,Central,Professional,Arts,1,148.17
+9606328,Customer_185,C00003,Digital Marketing,F,55+,17,0,New York,Northern,Unemployed,Technology,1,319.28
+5584829,Customer_186,C00001,Web Development,F,36-45,39,0,California,Central,Unemployed,Arts,1,234.76
+9671681,Customer_187,C00002,Graphic Design,M,0-17,11,0,Illinois,Northern,Retired,Technology,1,257.19
+5751239,Customer_188,C00001,Digital Marketing,F,18-25,33,1,New York,Northern,Retired,Arts,1,351.49
+7093765,Customer_189,C00003,Web Development,M,18-25,33,1,Florida,Southern,Retired,Technology,3,211.84
+7267511,Customer_190,C00004,Graphic Design,F,36-45,34,1,Texas,Eastern,Professional,Arts,3,158.3
+6056820,Customer_191,C00004,Data Science,F,36-45,35,1,Illinois,Central,Retired,Technology,4,463.2
+9296736,Customer_192,C00003,Data Science,M,0-17,15,0,Florida,Northern,Retired,Technology,2,205.33
+7401111,Customer_193,C00000,Web Development,F,0-17,32,1,Texas,Central,Unemployed,Arts,3,265.11
+4921437,Customer_194,C00003,Python Programming,M,18-25,59,0,Florida,Western,Retired,Business,4,418.98
+8855577,Customer_195,C00002,Web Development,F,18-25,26,0,Florida,Eastern,Student,Arts,3,334.76
+7267317,Customer_196,C00001,Digital Marketing,F,46-55,41,1,Illinois,Eastern,Professional,Business,4,329.19
+9219396,Customer_197,C00003,Data Science,M,0-17,58,1,Texas,Western,Professional,Technology,2,337.47
+5880762,Customer_198,C00002,Data Science,F,26-35,10,1,Florida,Western,Professional,Arts,4,414.67
+5004696,Customer_199,C00004,Graphic Design,F,46-55,13,1,New York,Central,Student,Technology,1,286.64
+6966097,Customer_200,C00003,Digital Marketing,M,0-17,43,1,Illinois,Southern,Self-Employed,Business,3,84.13
+3959300,Customer_201,C00000,Python Programming,M,26-35,41,0,California,Central,Self-Employed,Arts,3,349.48
+,,,,,,,,,,,,,
+6518577,Customer_202,C00003,Digital Marketing,F,26-35,16,1,New York,Central,Unemployed,Arts,4,124.25
+8536977,Customer_203,C00004,Digital Marketing,F,36-45,10,0,Texas,Northern,Self-Employed,Arts,2,422.92
+9222280,Customer_204,C00002,Digital Marketing,F,36-45,18,0,New York,Central,Student,Technology,2,120.44
+2930655,Customer_205,C00003,Digital Marketing,M,26-35,34,0,Florida,Eastern,Unemployed,Business,3,480.4
+8244976,Customer_206,C00003,Python Programming,F,26-35,16,1,California,Southern,Professional,Technology,1,369.66
+1348733,Customer_207,C00000,Digital Marketing,F,55+,21,0,Illinois,Western,Retired,Technology,1,168.52
+6205335,Customer_208,C00003,Python Programming,M,46-55,14,0,California,Eastern,Professional,Arts,2,143.36
+3744736,Customer_209,C00001,Web Development,M,26-35,47,1,New York,Western,Retired,Technology,4,445.22
+5319544,Customer_210,C00003,Digital Marketing,M,36-45,17,0,California,Northern,Retired,Technology,4,153.77
+3045025,Customer_211,C00002,Graphic Design,M,36-45,35,1,Texas,Central,Professional,Technology,2,235.34
+5253804,Customer_212,C00001,Python Programming,M,36-45,52,0,Florida,Northern,Student,Technology,1,257.14
+5082085,Customer_213,C00000,Python Programming,F,18-25,15,1,Florida,Western,Professional,Arts,4,105.97
+5499458,Customer_214,C00002,Digital Marketing,F,46-55,47,1,Texas,Central,Student,Technology,4,380.96
+6120785,Customer_215,C00000,Graphic Design,F,46-55,14,1,Florida,Central,Self-Employed,Arts,3,98.45
+3773135,Customer_216,C00003,Graphic Design,M,46-55,52,0,Illinois,Northern,Self-Employed,Technology,3,434.46
+2393347,Customer_217,C00003,Digital Marketing,F,55+,22,0,Florida,Western,Professional,Technology,2,289.29
+8329264,Customer_218,C00003,Graphic Design,M,18-25,26,1,Florida,Southern,Student,Business,4,327.51
+9155890,Customer_219,C00004,Python Programming,F,46-55,15,1,New York,Northern,Professional,Business,4,422.99
+5213853,Customer_220,C00004,Digital Marketing,F,18-25,23,0,California,Eastern,Student,Arts,3,201.31
+4587192,Customer_221,C00004,Digital Marketing,M,18-25,21,1,Florida,Eastern,Student,Technology,1,484.31
+5995734,Customer_222,C00001,Digital Marketing,F,26-35,32,1,New York,Eastern,Professional,Business,4,325.31
+2840338,Customer_223,C00004,Web Development,M,18-25,52,0,Texas,Western,Student,Technology,3,105.91
+2334791,Customer_224,C00003,Digital Marketing,M,0-17,49,0,Illinois,Eastern,Student,Technology,4,179.5
+2910961,Customer_225,C00003,Data Science,F,0-17,10,0,Texas,Eastern,Unemployed,Arts,2,273.32
+8230490,Customer_226,C00000,Data Science,M,55+,34,0,Illinois,Central,Unemployed,Technology,2,358.14
+6960440,Customer_227,C00002,Python Programming,F,55+,58,0,New York,Central,Retired,Arts,2,140.97
+2957977,Customer_228,C00002,Web Development,F,46-55,37,1,Texas,Central,Student,Business,3,242.13
+1032444,Customer_229,C00001,Web Development,M,0-17,40,1,New York,Western,Retired,Technology,1,98.46
+8687791,Customer_230,C00002,Graphic Design,F,55+,34,1,Illinois,Eastern,Self-Employed,Technology,3,131.24
+7444627,Customer_231,C00001,Digital Marketing,F,55+,38,1,Florida,Northern,Student,Business,4,391.15
+6425760,Customer_232,C00000,Data Science,M,26-35,34,1,New York,Eastern,Self-Employed,Arts,3,324.21
+7094228,Customer_233,C00003,Web Development,F,0-17,40,1,California,Central,Unemployed,Technology,2,253.51
+9742271,Customer_234,C00003,Data Science,F,18-25,56,1,Florida,Eastern,Self-Employed,Arts,4,53.21
+7735506,Customer_235,C00001,Data Science,F,55+,42,1,Florida,Central,Self-Employed,Technology,4,79.76
+,,,,,,,,,,,,,
+2286349,Customer_236,C00004,Digital Marketing,M,55+,56,1,California,Eastern,Professional,Arts,3,393.61
+4893299,Customer_237,C00000,Data Science,M,0-17,45,0,Texas,Western,Student,Technology,3,92.23
+9093215,Customer_238,C00003,Python Programming,F,36-45,32,1,California,Southern,Student,Technology,4,396.97
+8829985,Customer_239,C00003,Python Programming,M,55+,57,1,Florida,Southern,Retired,Technology,4,375.88
+3869516,Customer_240,C00000,Web Development,F,26-35,18,0,Texas,Eastern,Self-Employed,Business,4,281.18
+8821935,Customer_241,C00001,Web Development,M,46-55,13,1,Texas,Northern,Unemployed,Technology,2,211.5
+7029275,Customer_242,C00004,Graphic Design,M,36-45,46,1,Illinois,Eastern,Unemployed,Technology,2,455.1
+1891693,Customer_243,C00001,Data Science,F,26-35,24,0,California,Eastern,Self-Employed,Technology,4,129.46
+6410512,Customer_244,C00000,Web Development,F,26-35,46,0,Florida,Southern,Professional,Arts,1,434.76
+2263704,Customer_245,C00002,Digital Marketing,F,26-35,27,0,New York,Eastern,Self-Employed,Arts,3,393.56
+3890029,Customer_246,C00001,Web Development,M,0-17,29,0,Illinois,Eastern,Self-Employed,Technology,1,350.48
+2212581,Customer_247,C00002,Python Programming,M,0-17,34,0,New York,Central,Unemployed,Arts,2,474.07
+3852784,Customer_248,C00000,Data Science,F,36-45,34,0,Texas,Eastern,Self-Employed,Technology,4,498.26
+2123332,Customer_249,C00002,Python Programming,M,36-45,45,1,Florida,Central,Retired,Technology,3,405.16
+3741232,Customer_250,C00003,Web Development,M,18-25,11,1,Florida,Western,Unemployed,Business,4,152.94
+5215731,Customer_251,C00002,Web Development,F,18-25,22,1,California,Northern,Unemployed,Business,1,358.23
+8963822,Customer_252,C00004,Python Programming,M,18-25,30,1,Florida,Eastern,Professional,Business,3,230.17
+6926798,Customer_253,C00004,Graphic Design,M,26-35,17,1,Florida,Central,Self-Employed,Arts,4,105.06
+1437489,Customer_254,C00000,Graphic Design,M,46-55,32,1,California,Central,Unemployed,Technology,3,431.95
+8420298,Customer_255,C00004,Web Development,M,18-25,54,0,California,Eastern,Self-Employed,Technology,2,200.63
+2921750,Customer_256,C00002,Graphic Design,M,36-45,25,1,Florida,Southern,Student,Business,3,484
+1039965,Customer_257,C00003,Python Programming,M,46-55,42,0,Florida,Southern,Professional,Business,4,415
+5924366,Customer_258,C00000,Data Science,F,18-25,43,0,Illinois,Eastern,Unemployed,Technology,1,410.02
+7184106,Customer_259,C00001,Web Development,F,0-17,23,1,New York,Eastern,Retired,Business,4,422.11
+9144075,Customer_260,C00003,Digital Marketing,M,55+,11,0,Illinois,Southern,Professional,Technology,2,233.66
+5567519,Customer_261,C00001,Graphic Design,M,18-25,13,0,Illinois,Eastern,Self-Employed,Technology,4,86.99
+2427990,Customer_262,C00000,Graphic Design,F,18-25,49,0,Texas,Eastern,Professional,Technology,3,497.77
+7167662,Customer_263,C00001,Digital Marketing,F,26-35,46,1,Florida,Southern,Student,Technology,1,483.87
+8833044,Customer_264,C00003,Digital Marketing,M,26-35,48,1,Illinois,Central,Professional,Business,3,260.47
+8507639,Customer_265,C00004,Python Programming,F,18-25,37,0,Florida,Western,Unemployed,Technology,3,422.82
+3016386,Customer_266,C00000,Python Programming,F,26-35,44,1,Illinois,Eastern,Student,Business,1,264.81
+5152985,Customer_267,C00004,Graphic Design,M,0-17,55,1,Texas,Southern,Self-Employed,Technology,1,466.77
+8030400,Customer_268,C00004,Data Science,F,46-55,48,0,Florida,Eastern,Student,Business,2,230.03
+7986862,Customer_269,C00004,Python Programming,F,46-55,57,1,New York,Eastern,Retired,Technology,2,445.39
+5894406,Customer_270,C00003,Python Programming,M,26-35,35,0,Texas,Central,Professional,Technology,3,55.83
+8017426,Customer_271,C00002,Web Development,M,18-25,26,1,California,Western,Self-Employed,Arts,4,203.59
+8317694,Customer_272,C00004,Web Development,M,0-17,58,1,New York,Eastern,Unemployed,Arts,2,327.41
+2547822,Customer_273,C00002,Python Programming,M,0-17,19,0,Illinois,Western,Retired,Technology,4,434.68
+5272891,Customer_274,C00000,Data Science,M,36-45,35,0,Florida,Southern,Professional,Business,3,89.91
+7406437,Customer_275,C00001,Graphic Design,F,26-35,10,0,Florida,Southern,Unemployed,Arts,4,83.6
+6033939,Customer_276,C00004,Digital Marketing,M,36-45,25,1,New York,Northern,Retired,Technology,2,404.54
+7165367,Customer_277,C00002,Python Programming,M,26-35,26,0,California,Central,Professional,Arts,3,304.75
+5923292,Customer_278,C00000,Data Science,F,36-45,52,1,Florida,Southern,Unemployed,Technology,4,109.37
+8631187,Customer_279,C00003,Data Science,F,55+,46,1,California,Eastern,Self-Employed,Technology,2,264.82
+3715432,Customer_280,C00000,Data Science,M,18-25,17,1,California,Eastern,Professional,Arts,2,142.08
+8120232,Customer_281,C00003,Python Programming,M,26-35,33,1,Texas,Southern,Unemployed,Technology,3,388.13
+4634553,Customer_282,C00001,Python Programming,M,46-55,59,0,New York,Northern,Retired,Technology,4,417.02
+3830319,Customer_283,C00001,Data Science,F,26-35,50,0,New York,Central,Self-Employed,Technology,1,248.28
+2205300,Customer_284,C00002,Data Science,M,46-55,48,0,New York,Northern,Retired,Arts,2,485.53
+1092810,Customer_285,C00003,Python Programming,M,36-45,55,0,Illinois,Western,Self-Employed,Technology,3,335.93
+8900884,Customer_286,C00003,Graphic Design,M,36-45,47,1,New York,Central,Unemployed,Technology,3,166.85
+4151121,Customer_287,C00001,Python Programming,F,18-25,59,0,Florida,Central,Professional,Arts,3,79.67
+2172096,Customer_288,C00000,Web Development,M,46-55,47,0,Florida,Eastern,Unemployed,Business,1,363.79
+5321318,Customer_289,C00000,Data Science,M,18-25,14,1,New York,Central,Retired,Technology,1,315.5
+2794241,Customer_290,C00002,Graphic Design,M,0-17,44,0,Florida,Central,Student,Business,2,204.42
+6932154,Customer_291,C00001,Digital Marketing,M,46-55,32,0,Texas,Eastern,Unemployed,Business,3,382.33
+4246769,Customer_292,C00001,Python Programming,F,26-35,59,0,Illinois,Central,Self-Employed,Technology,4,67.43
+3815510,Customer_293,C00004,Data Science,F,46-55,40,1,Illinois,Northern,Retired,Technology,1,433.53
+5216318,Customer_294,C00002,Python Programming,F,36-45,43,0,California,Central,Unemployed,Business,1,135.8
+8355740,Customer_295,C00001,Digital Marketing,M,55+,37,0,California,Southern,Retired,Technology,1,64.91
+8095617,Customer_296,C00004,Python Programming,F,55+,17,0,Illinois,Central,Self-Employed,Business,1,451.36
+2505090,Customer_297,C00003,Graphic Design,M,18-25,23,1,New York,Central,Self-Employed,Technology,4,328.07
+3181554,Customer_298,C00004,Digital Marketing,M,0-17,35,1,New York,Western,Self-Employed,Arts,3,105.99
+6106278,Customer_299,C00001,Web Development,M,18-25,47,0,Texas,Western,Professional,Technology,2,332.42
+5643747,Customer_300,C00000,Web Development,M,0-17,41,0,Illinois,Northern,Unemployed,Technology,4,450.07
+8235573,Customer_301,C00002,Data Science,M,55+,46,1,Florida,Western,Professional,Arts,1,313.27
+7834327,Customer_302,C00003,Web Development,M,36-45,59,0,Florida,Northern,Self-Employed,Technology,2,387.97
+1016371,Customer_303,C00000,Python Programming,M,55+,57,0,California,Western,Student,Technology,1,453.04
+8731279,Customer_304,C00002,Graphic Design,M,55+,49,1,Illinois,Western,Unemployed,Technology,4,462.25
+2707121,Customer_305,C00003,Web Development,M,18-25,18,0,California,Eastern,Unemployed,Technology,1,114.13
+2056923,Customer_306,C00003,Data Science,F,26-35,28,0,Texas,Northern,Retired,Technology,2,389.62
+3613077,Customer_307,C00001,Python Programming,M,26-35,30,0,California,Central,Professional,Business,2,436.2
+7260225,Customer_308,C00004,Data Science,F,18-25,35,0,Texas,Western,Student,Technology,3,492.4
+5927603,Customer_309,C00000,Data Science,F,55+,49,1,Illinois,Northern,Professional,Technology,3,438.79
+9062801,Customer_310,C00004,Graphic Design,M,55+,39,0,Texas,Central,Professional,Arts,4,357.31
+9270219,Customer_311,C00001,Graphic Design,F,18-25,12,0,California,Western,Self-Employed,Technology,3,173.57
+3905152,Customer_312,C00001,Data Science,F,0-17,50,1,Illinois,Southern,Unemployed,Business,3,190.15
+,,,,,,,,,,,,,
+9161527,Customer_313,C00000,Data Science,F,18-25,27,0,California,Central,Professional,Technology,2,405.58
+8561270,Customer_314,C00003,Web Development,F,55+,50,1,Florida,Western,Student,Technology,2,236.47
+9537380,Customer_315,C00002,Web Development,M,55+,49,0,New York,Western,Unemployed,Technology,4,432.41
+6598334,Customer_316,C00003,Digital Marketing,M,0-17,43,0,Texas,Central,Unemployed,Arts,1,261.9
+5988947,Customer_317,C00004,Graphic Design,M,18-25,13,0,Texas,Northern,Professional,Arts,4,349.57
+9867525,Customer_318,C00000,Web Development,M,55+,36,1,New York,Eastern,Professional,Arts,2,480.02
+3724564,Customer_319,C00001,Data Science,M,18-25,57,0,Texas,Western,Student,Technology,1,145.53
+2103017,Customer_320,C00003,Web Development,M,46-55,34,1,Texas,Northern,Student,Business,3,179.82
+8178425,Customer_321,C00000,Digital Marketing,F,0-17,59,0,Florida,Southern,Unemployed,Technology,1,252.46
+4620485,Customer_322,C00002,Web Development,M,36-45,40,0,Illinois,Central,Retired,Arts,3,403.73
+9573758,Customer_323,C00001,Data Science,M,26-35,11,0,Texas,Northern,Unemployed,Technology,1,419.03
+7554793,Customer_324,C00003,Web Development,F,0-17,52,1,Florida,Northern,Retired,Technology,4,418.37
+4450698,Customer_325,C00001,Web Development,M,18-25,28,0,Texas,Northern,Student,Technology,3,197.52
+8456876,Customer_326,C00004,Graphic Design,F,55+,17,1,Illinois,Eastern,Self-Employed,Technology,2,89.85
+8275403,Customer_327,C00002,Graphic Design,F,26-35,53,0,Florida,Eastern,Professional,Arts,3,116.93
+8721890,Customer_328,C00002,Digital Marketing,F,18-25,15,1,Texas,Southern,Professional,Arts,3,119.95
+2951537,Customer_329,C00002,Digital Marketing,M,36-45,50,0,Florida,Western,Professional,Technology,1,351.99
+1569927,Customer_330,C00004,Web Development,M,0-17,47,0,New York,Eastern,Retired,Arts,4,301.23
+4795814,Customer_331,C00003,Graphic Design,M,55+,29,1,Texas,Eastern,Retired,Technology,4,131.46
+8682935,Customer_332,C00003,Graphic Design,M,55+,44,0,California,Eastern,Unemployed,Technology,2,252.87
+8637736,Customer_333,C00003,Web Development,F,0-17,31,1,Illinois,Eastern,Student,Technology,1,278.79
+1440301,Customer_334,C00003,Graphic Design,M,18-25,46,0,Texas,Southern,Self-Employed,Technology,2,400.08
+5894223,Customer_335,C00003,Python Programming,M,18-25,34,0,Texas,Northern,Retired,Technology,2,312.16
+1861188,Customer_336,C00000,Data Science,M,0-17,40,1,California,Central,Unemployed,Technology,3,219.73
+6044118,Customer_337,C00004,Python Programming,F,18-25,11,1,Florida,Central,Unemployed,Technology,3,477.23
+1440386,Customer_338,C00002,Python Programming,F,0-17,10,0,Illinois,Northern,Student,Technology,4,276.16
+1872263,Customer_339,C00003,Python Programming,F,46-55,34,1,California,Western,Unemployed,Technology,3,437.7
+4434824,Customer_340,C00003,Graphic Design,M,36-45,55,0,Illinois,Southern,Self-Employed,Technology,1,248.75
+1618281,Customer_341,C00002,Web Development,F,55+,57,1,Texas,Southern,Student,Arts,1,56.73
+3767321,Customer_342,C00002,Digital Marketing,F,0-17,14,0,Illinois,Eastern,Professional,Arts,2,320.96
+7050707,Customer_343,C00000,Data Science,M,55+,10,0,Florida,Northern,Self-Employed,Arts,1,411.09
+6021502,Customer_344,C00004,Data Science,F,36-45,46,0,New York,Eastern,Professional,Technology,4,177.73
+8480093,Customer_345,C00001,Python Programming,F,36-45,30,1,Illinois,Central,Self-Employed,Arts,4,367.86
+,,,,,,,,,,,,,
+5433673,Customer_346,C00000,Digital Marketing,F,46-55,14,1,New York,Central,Professional,Business,3,258.56
+8493731,Customer_347,C00001,Web Development,M,0-17,15,1,Florida,Northern,Unemployed,Technology,1,209.31
+1949786,Customer_348,C00000,Digital Marketing,M,18-25,24,1,California,Central,Retired,Business,1,77.06
+8875431,Customer_349,C00004,Digital Marketing,F,18-25,32,1,Illinois,Southern,Retired,Technology,4,210.05
+9942847,Customer_350,C00004,Data Science,M,0-17,25,0,Illinois,Eastern,Self-Employed,Technology,2,413.95
+9658504,Customer_351,C00001,Graphic Design,F,0-17,29,1,Illinois,Southern,Professional,Technology,3,408.1
+4628899,Customer_352,C00003,Python Programming,F,36-45,22,1,Illinois,Northern,Self-Employed,Technology,1,429.03
+4185266,Customer_353,C00003,Graphic Design,M,36-45,49,1,New York,Northern,Unemployed,Technology,1,409.51
+1891121,Customer_354,C00003,Data Science,M,55+,42,1,Florida,Central,Retired,Business,2,395.02
+9322734,Customer_355,C00001,Digital Marketing,F,26-35,40,1,New York,Western,Professional,Business,2,425.12
+8792138,Customer_356,C00003,Python Programming,M,36-45,30,1,Texas,Western,Professional,Business,2,418.83
+7788376,Customer_357,C00002,Web Development,M,0-17,30,1,Texas,Northern,Unemployed,Business,3,149.44
+3914815,Customer_358,C00002,Web Development,F,26-35,15,1,California,Southern,Retired,Technology,2,368.27
+7026283,Customer_359,C00004,Digital Marketing,F,36-45,20,1,California,Eastern,Professional,Technology,1,498.4
+8238619,Customer_360,C00001,Graphic Design,M,18-25,34,1,Illinois,Western,Retired,Technology,1,115.3
+9147918,Customer_361,C00003,Graphic Design,F,36-45,21,1,Texas,Western,Student,Technology,3,380.94
+6267863,Customer_362,C00002,Python Programming,F,36-45,31,0,New York,Southern,Self-Employed,Technology,2,464.98
+4610215,Customer_363,C00003,Data Science,M,36-45,16,0,Florida,Northern,Unemployed,Technology,3,343.28
+9666161,Customer_364,C00000,Graphic Design,F,36-45,11,1,Texas,Central,Professional,Technology,3,203.9
+1648779,Customer_365,C00003,Web Development,F,46-55,23,1,Texas,Southern,Student,Technology,4,352.45
+9800117,Customer_366,C00004,Web Development,M,0-17,25,0,New York,Northern,Professional,Technology,3,467.5
+7216632,Customer_367,C00000,Web Development,M,26-35,57,1,Texas,Eastern,Student,Technology,3,470.9
+7510558,Customer_368,C00001,Graphic Design,F,0-17,53,1,New York,Northern,Student,Business,2,439.83
+8851154,Customer_369,C00003,Digital Marketing,M,36-45,31,0,New York,Central,Retired,Technology,3,300.43
+2627481,Customer_370,C00003,Graphic Design,M,18-25,13,0,New York,Northern,Unemployed,Technology,4,307.33
+3590237,Customer_371,C00000,Graphic Design,M,26-35,39,0,New York,Northern,Professional,Arts,3,481.76
+6065649,Customer_372,C00004,Python Programming,M,55+,19,1,Texas,Southern,Self-Employed,Technology,3,348.05
+9869032,Customer_373,C00004,Data Science,M,0-17,34,1,Texas,Central,Unemployed,Arts,1,59.1
+8416170,Customer_374,C00004,Graphic Design,M,55+,46,0,Florida,Central,Self-Employed,Technology,4,174.66
+2236191,Customer_375,C00001,Graphic Design,F,18-25,59,1,California,Western,Professional,Technology,2,225.73
+5575335,Customer_376,C00000,Data Science,F,36-45,30,1,Florida,Western,Professional,Technology,4,269.06
+7545720,Customer_377,C00002,Web Development,M,18-25,47,1,New York,Eastern,Self-Employed,Arts,3,186.65
+5710389,Customer_378,C00001,Data Science,M,0-17,56,1,Illinois,Eastern,Professional,Technology,1,146.49
+1992544,Customer_379,C00004,Graphic Design,F,26-35,29,1,Florida,Central,Student,Technology,2,369.77
+6560356,Customer_380,C00004,Digital Marketing,M,0-17,50,0,Illinois,Northern,Student,Technology,3,126.13
+6650170,Customer_381,C00003,Python Programming,F,18-25,13,0,Illinois,Western,Professional,Technology,4,90.99
+7762444,Customer_382,C00001,Python Programming,M,18-25,47,0,Texas,Eastern,Retired,Arts,2,234.52
+1260146,Customer_383,C00000,Data Science,F,0-17,13,0,New York,Central,Professional,Technology,2,414.74
+5241932,Customer_384,C00004,Data Science,M,55+,30,0,California,Northern,Professional,Technology,2,392.12
+8975059,Customer_385,C00002,Web Development,M,55+,48,0,California,Southern,Self-Employed,Business,3,156.38
+5355779,Customer_386,C00003,Python Programming,M,0-17,40,0,California,Northern,Student,Technology,3,170.1
+2071498,Customer_387,C00000,Data Science,F,0-17,43,0,California,Western,Retired,Technology,2,494.22
+7702004,Customer_388,C00000,Graphic Design,M,18-25,35,0,California,Northern,Student,Technology,1,83.43
+1146524,Customer_389,C00000,Graphic Design,F,46-55,51,1,Illinois,Western,Retired,Technology,2,85.39
+4371054,Customer_390,C00003,Digital Marketing,M,0-17,54,0,Illinois,Southern,Unemployed,Technology,3,90.8
+3266339,Customer_391,C00002,Digital Marketing,M,36-45,32,1,Illinois,Northern,Unemployed,Technology,3,195.7
+9423633,Customer_392,C00004,Data Science,M,18-25,47,1,New York,Southern,Retired,Technology,3,393.73
+4343511,Customer_393,C00003,Web Development,M,46-55,12,0,Florida,Western,Professional,Arts,3,450.81
+7641269,Customer_394,C00003,Web Development,F,26-35,37,0,Texas,Western,Student,Technology,2,469.59
+9963253,Customer_395,C00002,Web Development,M,46-55,56,0,Illinois,Western,Self-Employed,Arts,1,163.58
+5018700,Customer_396,C00000,Web Development,M,26-35,47,0,New York,Central,Unemployed,Business,4,257.08
+2283501,Customer_397,C00004,Python Programming,M,46-55,38,1,New York,Western,Self-Employed,Technology,2,92.08
+3817543,Customer_398,C00001,Web Development,F,18-25,45,0,Texas,Eastern,Professional,Technology,4,300.31
+8467514,Customer_399,C00000,Digital Marketing,F,36-45,57,1,California,Northern,Retired,Technology,3,52.94
+3315695,Customer_400,C00000,Digital Marketing,M,18-25,43,0,New York,Central,Self-Employed,Technology,4,256.84
+9479399,Customer_401,C00002,Python Programming,F,46-55,35,0,Florida,Southern,Professional,Technology,4,491.18
+6177182,Customer_402,C00001,Data Science,M,46-55,20,1,Florida,Southern,Professional,Arts,2,113.19
+1951530,Customer_403,C00004,Graphic Design,M,26-35,49,0,Florida,Eastern,Self-Employed,Technology,1,144.84
+5097901,Customer_404,C00004,Digital Marketing,M,0-17,18,1,New York,Northern,Student,Arts,1,174.94
+2261121,Customer_405,C00004,Digital Marketing,M,18-25,27,1,New York,Eastern,Unemployed,Technology,2,440.05
+2394126,Customer_406,C00002,Python Programming,F,26-35,35,1,New York,Northern,Unemployed,Arts,1,450.5
+1063483,Customer_407,C00001,Digital Marketing,M,46-55,17,1,New York,Southern,Professional,Business,2,475.38
+7711672,Customer_408,C00001,Graphic Design,F,46-55,39,1,Florida,Eastern,Unemployed,Arts,2,161.78
+1970936,Customer_409,C00000,Python Programming,F,0-17,49,1,Texas,Southern,Professional,Technology,1,254.07
+4553864,Customer_410,C00003,Web Development,F,18-25,51,1,Texas,Northern,Student,Business,3,221.9
+9693794,Customer_411,C00001,Web Development,M,46-55,30,1,New York,Eastern,Retired,Technology,2,318.14
+8948908,Customer_412,C00004,Web Development,F,36-45,43,0,Florida,Eastern,Retired,Arts,1,183.18
+6557425,Customer_413,C00004,Graphic Design,F,0-17,59,1,Texas,Central,Retired,Technology,4,423.06
+6525452,Customer_414,C00003,Data Science,M,0-17,20,1,Florida,Central,Student,Technology,4,457.76
+8460817,Customer_415,C00003,Digital Marketing,F,26-35,22,0,New York,Northern,Retired,Technology,2,454.99
+8640880,Customer_416,C00000,Graphic Design,M,26-35,57,1,New York,Northern,Retired,Business,1,168.43
+3970186,Customer_417,C00000,Data Science,M,26-35,12,1,Illinois,Eastern,Self-Employed,Arts,1,268.02
+3059403,Customer_418,C00002,Python Programming,F,46-55,42,1,New York,Central,Student,Technology,2,292.03
+7133282,Customer_419,C00004,Graphic Design,M,55+,34,1,Florida,Northern,Retired,Technology,4,486.47
+8254730,Customer_420,C00002,Python Programming,F,0-17,15,1,New York,Eastern,Self-Employed,Technology,2,247.06
+4247564,Customer_421,C00004,Data Science,F,18-25,29,0,California,Northern,Retired,Business,2,81.42
+5229873,Customer_422,C00002,Graphic Design,F,36-45,10,1,Illinois,Western,Professional,Business,4,339.53
+6072394,Customer_423,C00000,Digital Marketing,F,46-55,27,0,New York,Central,Retired,Technology,4,128.51
+6300994,Customer_424,C00001,Data Science,F,46-55,33,1,New York,Northern,Self-Employed,Business,3,214.34
+5068335,Customer_425,C00003,Digital Marketing,F,18-25,56,0,Illinois,Southern,Professional,Arts,3,283.13
+3129995,Customer_426,C00004,Python Programming,M,46-55,30,1,California,Eastern,Student,Business,4,483.25
+8079854,Customer_427,C00000,Digital Marketing,M,18-25,46,0,Illinois,Eastern,Student,Arts,4,121.85
+8344122,Customer_428,C00000,Graphic Design,M,55+,46,0,Florida,Central,Student,Business,2,433.34
+5230787,Customer_429,C00000,Graphic Design,M,18-25,22,0,Florida,Central,Retired,Arts,4,58.45
+4215142,Customer_430,C00002,Web Development,F,0-17,54,1,California,Eastern,Self-Employed,Technology,1,71.56
+2827731,Customer_431,C00003,Digital Marketing,M,46-55,46,0,New York,Northern,Student,Technology,2,265.76
+1578129,Customer_432,C00000,Web Development,F,46-55,25,0,Illinois,Central,Self-Employed,Business,1,307.57
+7229136,Customer_433,C00002,Data Science,F,36-45,47,0,Texas,Central,Student,Business,4,135.05
+5258631,Customer_434,C00000,Python Programming,F,18-25,34,1,California,Eastern,Unemployed,Business,1,133.27
+5171019,Customer_435,C00002,Data Science,M,36-45,55,0,Illinois,Eastern,Professional,Arts,4,373.87
+1811158,Customer_436,C00001,Python Programming,F,55+,30,0,Illinois,Northern,Retired,Technology,2,188.79
+4319003,Customer_437,C00002,Digital Marketing,F,36-45,17,1,California,Eastern,Professional,Business,2,369.62
+8066242,Customer_438,C00004,Graphic Design,M,55+,56,0,Texas,Western,Professional,Business,4,282.87
+6772168,Customer_439,C00003,Digital Marketing,M,36-45,33,1,Florida,Northern,Unemployed,Technology,2,215.12
+8722056,Customer_440,C00002,Python Programming,M,26-35,30,1,Florida,Southern,Self-Employed,Business,2,70.6
+2079001,Customer_441,C00003,Web Development,M,0-17,15,1,New York,Northern,Professional,Technology,3,487.63
+1694566,Customer_442,C00002,Python Programming,F,18-25,17,0,New York,Western,Unemployed,Technology,4,221.01
+8438049,Customer_443,C00003,Web Development,F,46-55,46,1,Florida,Southern,Self-Employed,Technology,2,405.34
+4328344,Customer_444,C00001,Data Science,M,26-35,57,0,Texas,Northern,Unemployed,Technology,2,201.51
+9174911,Customer_445,C00004,Graphic Design,M,26-35,19,1,California,Eastern,Self-Employed,Technology,1,454
+1732053,Customer_446,C00004,Data Science,F,26-35,15,0,Illinois,Southern,Unemployed,Technology,4,82.46
+2554635,Customer_447,C00004,Digital Marketing,M,46-55,35,1,New York,Central,Professional,Arts,3,176.62
+8371429,Customer_448,C00002,Web Development,M,26-35,43,0,Florida,Eastern,Professional,Arts,4,286.79
+3420348,Customer_449,C00004,Web Development,F,26-35,30,0,Illinois,Northern,Unemployed,Technology,1,325.84
+3605366,Customer_450,C00000,Data Science,F,46-55,10,1,California,Eastern,Professional,Technology,1,339.55
+5734835,Customer_451,C00000,Graphic Design,M,0-17,43,0,California,Eastern,Unemployed,Technology,1,226.35
+4225011,Customer_452,C00004,Graphic Design,M,55+,29,0,New York,Eastern,Unemployed,Technology,2,332.45
+3833491,Customer_453,C00004,Data Science,F,26-35,19,0,New York,Central,Retired,Technology,3,439.8
+8427897,Customer_454,C00002,Graphic Design,M,18-25,12,1,Texas,Eastern,Student,Technology,1,427.13
+2424751,Customer_455,C00004,Digital Marketing,F,0-17,26,1,California,Central,Professional,Business,1,163.53
+6863000,Customer_456,C00003,Python Programming,F,46-55,33,1,Florida,Northern,Unemployed,Technology,3,68.72
+2312059,Customer_457,C00001,Web Development,M,0-17,35,0,California,Western,Student,Arts,1,157.84
+4884186,Customer_458,C00002,Web Development,F,0-17,52,1,California,Central,Unemployed,Technology,2,418.78
+7721144,Customer_459,C00002,Web Development,F,36-45,26,1,Texas,Eastern,Professional,Arts,1,346.51
+2637291,Customer_460,C00000,Python Programming,M,46-55,27,1,California,Central,Unemployed,Arts,2,106.03
+4003001,Customer_461,C00002,Digital Marketing,F,0-17,50,1,Florida,Southern,Self-Employed,Business,4,123.92
+1091934,Customer_462,C00002,Data Science,M,46-55,27,1,Texas,Northern,Self-Employed,Business,4,169.32
+2920327,Customer_463,C00001,Graphic Design,M,55+,59,0,California,Eastern,Retired,Technology,4,434.43
+9253536,Customer_464,C00003,Graphic Design,F,26-35,47,1,New York,Southern,Professional,Technology,3,229.08
+4182070,Customer_465,C00001,Python Programming,M,46-55,51,1,Illinois,Southern,Professional,Technology,2,202.84
+3075766,Customer_466,C00003,Web Development,F,0-17,48,0,California,Central,Student,Technology,4,151.54
+5218027,Customer_467,C00000,Graphic Design,M,46-55,22,1,Florida,Southern,Unemployed,Technology,3,353.26
+9119311,Customer_468,C00001,Data Science,F,36-45,16,0,Florida,Eastern,Professional,Arts,3,485.62
+3727748,Customer_469,C00001,Graphic Design,F,55+,57,0,New York,Southern,Professional,Technology,2,85.71
+2328330,Customer_470,C00001,Web Development,M,36-45,34,1,California,Southern,Student,Technology,1,276.23
+1940117,Customer_471,C00004,Data Science,M,36-45,43,1,California,Central,Self-Employed,Technology,4,456.15
+3518695,Customer_472,C00004,Web Development,M,55+,24,0,California,Eastern,Professional,Technology,4,170.41
+5817002,Customer_473,C00001,Web Development,M,55+,15,0,Florida,Western,Student,Technology,1,202.57
+3563563,Customer_474,C00002,Python Programming,F,55+,19,1,Texas,Northern,Self-Employed,Technology,1,272.06
+2029726,Customer_475,C00000,Web Development,F,46-55,47,0,Texas,Western,Professional,Technology,1,113.06
+5433489,Customer_476,C00002,Data Science,M,0-17,48,0,New York,Western,Self-Employed,Technology,1,411.7
+9285196,Customer_477,C00000,Python Programming,F,26-35,21,0,Florida,Eastern,Professional,Business,4,163.31
+3571051,Customer_478,C00000,Python Programming,F,18-25,35,0,Illinois,Eastern,Retired,Technology,2,76.47
+9786870,Customer_479,C00004,Data Science,F,26-35,26,0,New York,Southern,Unemployed,Technology,3,349.14
+1074518,Customer_480,C00000,Python Programming,M,55+,29,0,Texas,Northern,Student,Technology,1,295.38
+8125791,Customer_481,C00001,Data Science,F,36-45,33,0,Illinois,Central,Professional,Technology,4,468.34
+9466804,Customer_482,C00001,Graphic Design,F,55+,58,0,New York,Eastern,Unemployed,Technology,4,402.19
+6618722,Customer_483,C00000,Python Programming,F,0-17,19,0,New York,Eastern,Retired,Technology,4,66.21
+3877410,Customer_484,C00004,Graphic Design,M,55+,52,1,Florida,Southern,Self-Employed,Technology,3,288.41
+3551594,Customer_485,C00002,Python Programming,M,55+,51,1,California,Northern,Retired,Technology,1,440.52
+6672826,Customer_486,C00004,Web Development,M,46-55,51,0,Texas,Central,Unemployed,Arts,1,58.25
+8848766,Customer_487,C00004,Data Science,M,46-55,49,0,Texas,Northern,Student,Technology,1,218.06
+4239763,Customer_488,C00002,Web Development,F,0-17,36,1,California,Northern,Unemployed,Technology,2,424.89
+4483888,Customer_489,C00001,Graphic Design,M,0-17,52,1,Illinois,Southern,Self-Employed,Technology,3,162.2
+9102086,Customer_490,C00003,Data Science,F,55+,21,0,Illinois,Western,Unemployed,Technology,4,55.48
+9642076,Customer_491,C00004,Data Science,F,36-45,17,1,Illinois,Eastern,Retired,Technology,2,203.26
+2167437,Customer_492,C00001,Graphic Design,M,36-45,37,0,California,Western,Unemployed,Technology,3,65.57
+6341653,Customer_493,C00000,Data Science,F,0-17,42,0,Florida,Western,Unemployed,Business,1,462.06
+1059202,Customer_494,C00004,Data Science,M,36-45,40,0,Florida,Western,Unemployed,Technology,1,433.75
+7419566,Customer_495,C00004,Python Programming,M,55+,32,0,New York,Southern,Unemployed,Business,4,239.86
+7030500,Customer_496,C00000,Digital Marketing,M,18-25,39,1,Texas,Central,Self-Employed,Arts,1,233.52
+6718986,Customer_497,C00003,Web Development,F,55+,42,0,California,Northern,Unemployed,Technology,4,490.74
+2631746,Customer_498,C00003,Digital Marketing,F,46-55,12,0,Florida,Western,Student,Technology,2,270.17
+5786597,Customer_499,C00002,Data Science,F,36-45,32,1,Texas,Central,Self-Employed,Technology,3,246.51
+1089031,Customer_500,C00000,Digital Marketing,F,36-45,57,0,Illinois,Southern,Self-Employed,Business,3,230.21
+5135760,Customer_501,C00001,Python Programming,M,36-45,50,0,California,Central,Unemployed,Business,3,192.96
+6572339,Customer_502,C00001,Graphic Design,F,0-17,57,0,Texas,Southern,Retired,Technology,2,204.45
+1856658,Customer_503,C00003,Graphic Design,F,55+,34,0,Florida,Northern,Unemployed,Business,3,249.97
+8557938,Customer_504,C00002,Digital Marketing,M,55+,24,1,Illinois,Eastern,Self-Employed,Technology,4,465.59
+9964029,Customer_505,C00002,Python Programming,M,18-25,12,0,New York,Eastern,Professional,Business,3,445.03
+3552786,Customer_506,C00001,Graphic Design,F,55+,13,0,New York,Northern,Student,Technology,4,393.25
+8417884,Customer_507,C00002,Digital Marketing,M,36-45,43,1,New York,Southern,Retired,Arts,2,402.7
+2476387,Customer_508,C00003,Digital Marketing,M,18-25,52,0,Florida,Eastern,Retired,Technology,2,240.76
+2564981,Customer_509,C00003,Web Development,F,18-25,46,0,California,Western,Retired,Technology,3,312.27
+1200049,Customer_510,C00002,Python Programming,M,0-17,10,0,Texas,Southern,Self-Employed,Business,3,453.61
+1661034,Customer_511,C00003,Web Development,M,36-45,34,1,Florida,Eastern,Retired,Business,2,198.89
+3551598,Customer_512,C00003,Digital Marketing,F,18-25,48,1,Texas,Eastern,Retired,Technology,2,228.84
+7648005,Customer_513,C00002,Web Development,M,36-45,22,1,Florida,Western,Professional,Technology,2,169.29
+1383516,Customer_514,C00003,Web Development,F,36-45,25,0,Illinois,Northern,Professional,Business,2,70.22
+5006995,Customer_515,C00000,Digital Marketing,F,55+,36,1,Florida,Eastern,Professional,Technology,2,57.31
+8264905,Customer_516,C00003,Graphic Design,F,26-35,33,1,New York,Western,Retired,Technology,4,172.6
+1476379,Customer_517,C00004,Data Science,F,46-55,39,0,California,Central,Retired,Arts,2,473.53
+2030987,Customer_518,C00001,Graphic Design,F,36-45,26,1,Texas,Northern,Unemployed,Technology,4,195.91
+7835040,Customer_519,C00000,Python Programming,F,55+,28,0,Illinois,Southern,Self-Employed,Business,4,449.86
+9908966,Customer_520,C00002,Graphic Design,F,0-17,55,0,New York,Northern,Unemployed,Technology,1,103.16
+6625887,Customer_521,C00001,Digital Marketing,M,55+,43,0,Illinois,Eastern,Self-Employed,Technology,3,353.6
+6320435,Customer_522,C00004,Web Development,F,46-55,13,0,Texas,Eastern,Unemployed,Business,3,197.86
+2138582,Customer_523,C00001,Python Programming,F,0-17,48,0,Florida,Western,Professional,Business,3,451.62
+9850814,Customer_524,C00003,Python Programming,M,0-17,17,1,California,Eastern,Retired,Technology,2,363.98
+8436123,Customer_525,C00001,Python Programming,M,0-17,30,0,New York,Northern,Professional,Technology,1,203.96
+6626901,Customer_526,C00002,Web Development,F,26-35,58,0,California,Western,Unemployed,Technology,3,269.39
+9785725,Customer_527,C00003,Graphic Design,F,46-55,34,0,Texas,Central,Self-Employed,Arts,1,155.59
+5619756,Customer_528,C00003,Web Development,M,0-17,12,1,Illinois,Central,Student,Technology,1,63.55
+7393641,Customer_529,C00004,Data Science,F,55+,20,1,California,Central,Student,Arts,2,79.13
+8436659,Customer_530,C00001,Python Programming,F,55+,44,1,Illinois,Western,Retired,Technology,3,415.3
+9475499,Customer_531,C00004,Digital Marketing,F,26-35,34,1,California,Northern,Retired,Technology,4,382.81
+8006563,Customer_532,C00003,Web Development,F,46-55,10,0,Texas,Western,Unemployed,Technology,4,349.68
+1732713,Customer_533,C00003,Python Programming,M,55+,16,0,Illinois,Southern,Self-Employed,Technology,1,460.91
+9008508,Customer_534,C00004,Web Development,F,0-17,23,0,California,Western,Self-Employed,Business,2,163.58
+7882095,Customer_535,C00003,Web Development,F,0-17,48,1,California,Eastern,Professional,Technology,4,58.13
+6154447,Customer_536,C00001,Graphic Design,M,36-45,35,0,Texas,Central,Unemployed,Business,4,461.61
+2542750,Customer_537,C00000,Web Development,M,46-55,37,0,Illinois,Western,Professional,Technology,3,493.96
+9487424,Customer_538,C00004,Digital Marketing,M,55+,57,0,California,Southern,Unemployed,Arts,2,125.22
+9637318,Customer_539,C00002,Data Science,M,18-25,15,1,New York,Eastern,Unemployed,Arts,1,347.84
+7296285,Customer_540,C00000,Data Science,M,0-17,55,1,Texas,Northern,Retired,Technology,4,95.56
+8769155,Customer_541,C00002,Web Development,M,0-17,51,0,California,Western,Retired,Technology,3,74.88
+8936016,Customer_542,C00003,Web Development,M,0-17,33,1,Texas,Central,Self-Employed,Business,3,213.2
+2593341,Customer_543,C00000,Web Development,F,36-45,34,1,Florida,Eastern,Self-Employed,Business,3,95.27
+8622923,Customer_544,C00003,Data Science,M,55+,23,0,California,Western,Retired,Business,3,100.03
+2059639,Customer_545,C00003,Web Development,M,36-45,31,1,New York,Eastern,Student,Technology,3,272.29
+5559741,Customer_546,C00004,Graphic Design,M,36-45,23,0,Florida,Eastern,Self-Employed,Business,2,288.44
+5597035,Customer_547,C00002,Web Development,F,46-55,12,1,Texas,Eastern,Professional,Business,3,227.17
+1274964,Customer_548,C00001,Digital Marketing,M,26-35,51,1,Illinois,Southern,Student,Technology,2,349.27
+1262655,Customer_549,C00004,Digital Marketing,F,46-55,11,1,Illinois,Western,Professional,Technology,3,494.01
+9112759,Customer_550,C00004,Data Science,M,26-35,55,0,Texas,Eastern,Unemployed,Technology,1,428.83
+7426894,Customer_551,C00002,Digital Marketing,M,18-25,10,1,Illinois,Western,Unemployed,Technology,2,393.87
+9415312,Customer_552,C00004,Data Science,F,46-55,24,0,Illinois,Eastern,Unemployed,Business,1,237.34
+5111843,Customer_553,C00002,Digital Marketing,F,55+,46,0,New York,Central,Self-Employed,Technology,4,198.43
+9371942,Customer_554,C00004,Data Science,M,55+,17,1,Florida,Western,Self-Employed,Arts,2,307.09
+4079323,Customer_555,C00000,Python Programming,M,55+,58,1,California,Western,Unemployed,Arts,3,188.71
+9385531,Customer_556,C00002,Digital Marketing,M,55+,19,0,Florida,Central,Self-Employed,Technology,3,126.47
+2807650,Customer_557,C00001,Web Development,M,0-17,54,1,Texas,Western,Self-Employed,Business,2,440.7
+2805600,Customer_558,C00004,Data Science,F,18-25,59,0,New York,Eastern,Professional,Arts,4,104.32
+8867201,Customer_559,C00000,Data Science,F,0-17,14,0,Texas,Southern,Retired,Technology,3,492.95
+8337238,Customer_560,C00001,Graphic Design,M,26-35,26,0,Florida,Western,Unemployed,Business,2,166.73
+5546349,Customer_561,C00004,Python Programming,M,36-45,26,1,New York,Central,Student,Technology,2,381.76
+2803240,Customer_562,C00004,Python Programming,M,26-35,26,1,New York,Southern,Retired,Business,3,77.5
+1520103,Customer_563,C00003,Web Development,M,46-55,13,1,Florida,Western,Retired,Business,3,411.41
+1829782,Customer_564,C00004,Data Science,F,55+,50,1,California,Eastern,Professional,Technology,4,282.1
+1014609,Customer_565,C00001,Python Programming,F,18-25,12,1,Florida,Northern,Unemployed,Business,3,485.39
+5149172,Customer_566,C00001,Python Programming,M,55+,42,0,New York,Northern,Student,Technology,2,271.55
+2306074,Customer_567,C00000,Graphic Design,M,18-25,16,0,New York,Southern,Student,Technology,1,399.95
+6082760,Customer_568,C00003,Web Development,M,18-25,31,1,California,Central,Professional,Business,2,154.63
+4107589,Customer_569,C00000,Web Development,M,26-35,38,0,California,Western,Retired,Technology,2,206.7
+5084961,Customer_570,C00000,Python Programming,F,46-55,32,0,Texas,Northern,Professional,Technology,4,404.89
+7807802,Customer_571,C00004,Digital Marketing,F,36-45,37,0,Texas,Northern,Student,Technology,3,442.75
+9574730,Customer_572,C00000,Graphic Design,M,18-25,59,0,New York,Western,Retired,Arts,3,97.88
+8309886,Customer_573,C00002,Digital Marketing,M,36-45,14,1,Texas,Western,Retired,Business,4,361.04
+6932573,Customer_574,C00003,Graphic Design,F,18-25,14,1,California,Central,Professional,Business,3,491.19
+3392203,Customer_575,C00004,Digital Marketing,M,18-25,41,1,Texas,Western,Unemployed,Technology,1,476.09
+2648798,Customer_576,C00002,Web Development,M,26-35,12,0,Texas,Northern,Self-Employed,Technology,1,213.95
+6803578,Customer_577,C00001,Data Science,F,0-17,35,1,New York,Western,Retired,Business,2,184.47
+1209886,Customer_578,C00003,Web Development,M,18-25,40,1,Florida,Eastern,Retired,Technology,2,110.53
+9544213,Customer_579,C00001,Python Programming,M,0-17,21,0,Florida,Northern,Self-Employed,Technology,2,494.35
+3775367,Customer_580,C00001,Digital Marketing,F,26-35,20,0,Illinois,Southern,Student,Business,4,395.98
+2794713,Customer_581,C00004,Python Programming,F,18-25,12,0,Illinois,Central,Self-Employed,Technology,1,331.61
+2343980,Customer_582,C00002,Web Development,M,55+,21,1,New York,Northern,Professional,Technology,1,284.45
+2033014,Customer_583,C00003,Digital Marketing,M,46-55,22,0,New York,Western,Retired,Arts,2,412.88
+2239213,Customer_584,C00004,Graphic Design,M,18-25,30,0,Florida,Central,Retired,Technology,4,343.25
+7194553,Customer_585,C00000,Data Science,M,18-25,19,1,New York,Central,Unemployed,Technology,2,269.43
+1508394,Customer_586,C00003,Web Development,M,46-55,45,0,California,Southern,Student,Arts,3,248.74
+7161268,Customer_587,C00004,Web Development,M,46-55,16,0,New York,Eastern,Professional,Technology,1,220.36
+7593492,Customer_588,C00003,Data Science,F,18-25,41,1,Texas,Eastern,Self-Employed,Technology,2,486.44
+6771249,Customer_589,C00003,Web Development,M,36-45,37,0,New York,Western,Student,Business,4,461.66
+8338145,Customer_590,C00004,Digital Marketing,M,26-35,20,0,Florida,Eastern,Student,Business,2,200.24
+8559612,Customer_591,C00001,Digital Marketing,F,55+,58,1,California,Central,Professional,Business,1,79.2
+9242028,Customer_592,C00001,Web Development,M,36-45,18,0,Illinois,Western,Unemployed,Technology,3,119.99
+3141913,Customer_593,C00004,Digital Marketing,M,55+,35,1,California,Eastern,Professional,Arts,3,318.29
+5770748,Customer_594,C00003,Web Development,F,18-25,47,0,California,Western,Professional,Technology,1,375.86
+4685972,Customer_595,C00001,Web Development,M,55+,25,1,Texas,Central,Unemployed,Business,2,438.43
+9444922,Customer_596,C00002,Graphic Design,M,0-17,36,0,California,Central,Student,Arts,1,459.37
+1686352,Customer_597,C00000,Data Science,M,46-55,15,0,New York,Northern,Student,Business,4,470.67
+2967592,Customer_598,C00000,Digital Marketing,F,55+,28,0,Florida,Eastern,Self-Employed,Business,4,489.98
+7725153,Customer_599,C00002,Data Science,F,55+,10,1,California,Eastern,Unemployed,Technology,2,400.54
+3464238,Customer_500,C00002,Data Science,F,0-17,46,0,New York,Northern,Professional,Business,1,248.13
+4023528,Customer_501,C00000,Graphic Design,M,0-17,56,0,California,Eastern,Professional,Technology,3,352.82
+2736585,Customer_502,C00004,Digital Marketing,F,36-45,23,0,New York,Central,Retired,Technology,1,344.57
+9102199,Customer_503,C00003,Python Programming,F,26-35,59,1,Illinois,Western,Professional,Arts,3,471.29
+2940124,Customer_504,C00002,Web Development,F,55+,25,1,New York,Northern,Professional,Technology,4,254.62
+8729233,Customer_505,C00002,Python Programming,M,36-45,58,1,Illinois,Southern,Student,Arts,4,289.44
+3167670,Customer_506,C00003,Digital Marketing,F,0-17,18,1,Texas,Eastern,Unemployed,Technology,1,386.56
+1406763,Customer_507,C00000,Data Science,M,18-25,41,0,Florida,Eastern,Student,Technology,1,101.76
+9172312,Customer_508,C00003,Python Programming,M,46-55,35,1,Florida,Northern,Self-Employed,Technology,2,128.04
+2094383,Customer_509,C00002,Graphic Design,F,55+,55,1,Illinois,Central,Student,Technology,3,461.67
+9733141,Customer_510,C00001,Python Programming,M,36-45,31,1,California,Southern,Self-Employed,Arts,3,263.91
+3896397,Customer_511,C00003,Python Programming,F,26-35,26,1,Florida,Northern,Self-Employed,Technology,4,61.38
+7766549,Customer_512,C00004,Data Science,M,0-17,44,0,New York,Northern,Retired,Technology,1,238.98
+9110555,Customer_513,C00002,Data Science,M,0-17,19,1,Florida,Northern,Student,Business,4,102.8
+3626490,Customer_514,C00002,Web Development,M,55+,19,0,Texas,Northern,Retired,Business,4,401.17
+1462343,Customer_515,C00001,Data Science,M,46-55,39,1,New York,Northern,Professional,Technology,1,296.19
+7011535,Customer_516,C00001,Data Science,M,0-17,40,1,Texas,Northern,Retired,Technology,2,135.86
+2682816,Customer_517,C00001,Python Programming,M,55+,20,0,Asia,Southern,Student,Technology,3,223.59
+9125871,Customer_518,C00001,Data Science,F,36-45,48,1,Florida,Southern,Retired,Business,4,408.47
+1929915,Customer_519,C00000,Python Programming,F,55+,45,1,California,Northern,Unemployed,Technology,3,360.45
+4246822,Customer_520,C00003,Python Programming,F,0-17,56,1,New York,Southern,Unemployed,Technology,3,71.38
+9233201,Customer_521,C00004,Graphic Design,F,0-17,40,0,Asia,Western,Unemployed,Business,2,64.37
+9236887,Customer_522,C00004,Python Programming,F,46-55,37,1,Texas,Western,Professional,Technology,4,252.19
+8571271,Customer_523,C00002,Web Development,M,18-25,14,1,Illinois,Eastern,Student,Arts,2,296.86
+9001134,Customer_524,C00000,Python Programming,F,55+,27,0,Texas,Western,Student,Arts,1,306.31
+1121668,Customer_525,C00002,Python Programming,F,26-35,55,1,Illinois,Eastern,Unemployed,Technology,1,110.43
+6407263,Customer_526,C00004,Digital Marketing,F,55+,20,1,Illinois,Southern,Unemployed,Technology,4,406.18
+1713829,Customer_527,C00003,Web Development,F,26-35,54,1,California,Northern,Retired,Arts,4,355.11
+2718288,Customer_528,C00000,Digital Marketing,M,36-45,33,1,Illinois,Northern,Professional,Arts,2,405.02
+8548063,Customer_529,C00000,Graphic Design,M,55+,52,0,New York,Western,Professional,Arts,3,163.32
+4880062,Customer_530,C00004,Python Programming,F,26-35,27,0,Florida,Southern,Retired,Technology,4,492.3
+9267891,Customer_531,C00002,Web Development,M,46-55,49,1,Texas,Central,Unemployed,Business,2,302.66
+5729879,Customer_532,C00003,Web Development,F,46-55,49,0,Asia,Northern,Student,Technology,1,172.34
+7763229,Customer_533,C00000,Graphic Design,M,0-17,36,1,New York,Southern,Retired,Arts,4,263.69
+2123607,Customer_534,C00002,Data Science,F,55+,35,0,Illinois,Northern,Professional,Technology,4,96.16
+4924812,Customer_535,C00000,Web Development,M,0-17,48,1,New York,Western,Unemployed,Technology,3,54.78
+8502565,Customer_536,C00002,Data Science,F,36-45,37,0,New York,Central,Self-Employed,Technology,2,90.33
+5998119,Customer_537,C00001,Graphic Design,M,55+,33,1,California,Northern,Retired,Business,1,160.05
+4250610,Customer_538,C00002,Data Science,F,18-25,43,0,Illinois,Southern,Unemployed,Technology,3,357.85
+8358732,Customer_539,C00004,Graphic Design,F,0-17,40,0,New York,Eastern,Student,Technology,1,224.91
+2714489,Customer_540,C00003,Python Programming,M,46-55,50,1,Asia,Northern,Self-Employed,Technology,1,62.62
+1854720,Customer_541,C00000,Python Programming,F,0-17,46,1,Texas,Eastern,Self-Employed,Arts,4,250.02
+7961502,Customer_542,C00002,Python Programming,F,36-45,37,1,California,Southern,Student,Technology,2,402.65
+2362449,Customer_543,C00004,Digital Marketing,M,36-45,26,1,New York,Northern,Student,Technology,4,385.92
+6101554,Customer_544,C00003,Web Development,F,0-17,29,0,Texas,Central,Student,Technology,3,442.11
+9479799,Customer_545,C00002,Graphic Design,F,18-25,56,1,Texas,Western,Retired,Technology,3,262.2
+5324636,Customer_546,C00002,Data Science,F,26-35,35,0,Illinois,Western,Retired,Technology,2,194.57
+3890928,Customer_547,C00000,Graphic Design,F,55+,18,1,New York,Southern,Unemployed,Arts,4,466.3
+5129922,Customer_548,C00001,Digital Marketing,M,46-55,39,0,Illinois,Central,Self-Employed,Arts,2,170.03
+9847139,Customer_549,C00000,Data Science,M,18-25,25,1,Texas,Central,Self-Employed,Business,2,80.86
+8500700,Customer_550,C00001,Digital Marketing,F,36-45,57,1,New York,Western,Self-Employed,Technology,1,58.88
+2057321,Customer_551,C00003,Data Science,M,46-55,10,0,Asia,Eastern,Professional,Arts,1,401.66
+6997954,Customer_552,C00000,Web Development,M,55+,21,0,Illinois,Southern,Professional,Business,4,148.78
+8538760,Customer_553,C00004,Python Programming,F,46-55,32,0,Illinois,Central,Student,Technology,4,379.42
+2620944,Customer_554,C00004,Python Programming,M,26-35,44,1,Florida,Northern,Self-Employed,Business,4,235.79
+9878740,Customer_555,C00004,Web Development,M,36-45,35,0,Asia,Southern,Unemployed,Arts,1,328.95
+8008699,Customer_556,C00004,Web Development,M,26-35,50,0,Asia,Western,Unemployed,Technology,2,161.86
+7679565,Customer_557,C00001,Python Programming,M,26-35,42,1,California,Northern,Unemployed,Technology,4,195.92
+9428469,Customer_558,C00002,Graphic Design,M,18-25,39,1,Texas,Southern,Professional,Technology,1,493.64
+6912762,Customer_559,C00003,Data Science,F,55+,14,0,Texas,Southern,Professional,Technology,3,214.15
+1408044,Customer_560,C00004,Graphic Design,M,36-45,49,0,Illinois,Eastern,Retired,Business,4,373.64
+3582576,Customer_561,C00003,Graphic Design,F,36-45,56,0,Texas,Northern,Self-Employed,Technology,4,278.99
+7717605,Customer_562,C00000,Web Development,M,18-25,19,1,Texas,Western,Self-Employed,Technology,4,344.67
+2831533,Customer_563,C00001,Python Programming,F,36-45,13,0,New York,Southern,Self-Employed,Technology,4,153.94
+4542907,Customer_564,C00001,Data Science,M,18-25,20,1,Florida,Eastern,Retired,Technology,3,297.07
+1485030,Customer_565,C00001,Python Programming,M,36-45,32,0,New York,Western,Unemployed,Technology,4,389.89
+9220804,Customer_566,C00002,Python Programming,M,55+,38,1,New York,Northern,Unemployed,Technology,4,134.51
+9627124,Customer_567,C00002,Python Programming,F,0-17,34,1,Texas,Western,Retired,Technology,1,420.84
+8502511,Customer_568,C00001,Web Development,M,36-45,32,0,Texas,Northern,Retired,Technology,4,299.25
+8007002,Customer_569,C00002,Python Programming,M,0-17,14,0,Texas,Western,Self-Employed,Technology,4,115.8
+9019655,Customer_570,C00003,Python Programming,M,55+,30,0,New York,Northern,Retired,Arts,4,106.03
+2030387,Customer_571,C00003,Data Science,F,26-35,30,0,Asia,Southern,Self-Employed,Technology,4,53.82
+6191705,Customer_572,C00003,Web Development,M,26-35,39,1,Asia,Northern,Student,Technology,4,214.47
+3744340,Customer_573,C00003,Graphic Design,F,26-35,54,1,New York,Western,Self-Employed,Arts,3,306.56
+6368829,Customer_574,C00000,Digital Marketing,F,46-55,57,0,Florida,Central,Student,Technology,3,118.23
+9696991,Customer_575,C00000,Python Programming,M,26-35,24,1,Illinois,Western,Professional,Technology,1,383.82
+8413102,Customer_576,C00001,Python Programming,M,0-17,14,1,Asia,Western,Professional,Technology,1,66.41
+4050231,Customer_577,C00004,Data Science,F,55+,33,1,Asia,Western,Self-Employed,Technology,4,422.13
+1819382,Customer_578,C00002,Graphic Design,F,18-25,56,1,New York,Central,Professional,Technology,4,479.76
+2411202,Customer_579,C00002,Digital Marketing,F,18-25,13,0,Texas,Western,Self-Employed,Technology,1,235.6
+6672580,Customer_580,C00001,Data Science,M,46-55,33,0,New York,Western,Retired,Arts,2,430.2
+8253532,Customer_581,C00002,Digital Marketing,F,36-45,16,0,California,Southern,Retired,Arts,4,492.58
+8915789,Customer_582,C00003,Data Science,F,26-35,20,0,New York,Eastern,Professional,Business,3,473.8
+4293209,Customer_583,C00002,Data Science,M,36-45,24,1,New York,Central,Professional,Technology,4,57.12
+4230557,Customer_584,C00001,Web Development,F,18-25,22,0,California,Central,Self-Employed,Arts,3,72.77
+1077334,Customer_585,C00002,Data Science,F,0-17,28,1,Florida,Western,Student,Business,1,171.27
+4807607,Customer_586,C00001,Graphic Design,M,46-55,34,0,New York,Central,Student,Technology,1,484.9
+5669307,Customer_587,C00002,Web Development,F,46-55,18,1,California,Central,Unemployed,Arts,2,115.88
+3140659,Customer_588,C00003,Digital Marketing,M,46-55,38,1,Asia,Northern,Professional,Business,4,452.35
+8030417,Customer_589,C00004,Web Development,F,26-35,32,1,California,Eastern,Professional,Business,4,311.99
+3935772,Customer_590,C00000,Digital Marketing,F,46-55,18,1,Asia,Central,Self-Employed,Technology,4,248.31
+5068664,Customer_591,C00000,Digital Marketing,M,0-17,28,1,California,Eastern,Professional,Technology,2,426.73
+9140116,Customer_592,C00003,Digital Marketing,M,0-17,23,1,Florida,Central,Self-Employed,Technology,3,304.94
+6921952,Customer_593,C00002,Data Science,F,46-55,37,0,California,Southern,Professional,Technology,1,276
+1019608,Customer_594,C00001,Graphic Design,M,18-25,24,0,Illinois,Eastern,Self-Employed,Business,4,324.09
+4262542,Customer_595,C00002,Web Development,F,55+,25,0,Texas,Northern,Student,Arts,3,458.37
+6565454,Customer_596,C00003,Digital Marketing,F,55+,19,0,Illinois,Central,Retired,Technology,3,460.51
+2441773,Customer_597,C00001,Graphic Design,M,18-25,55,0,New York,Western,Retired,Technology,4,73.61
+5745124,Customer_598,C00004,Digital Marketing,F,46-55,41,1,Florida,Central,Professional,Arts,1,179.11
+4278637,Customer_599,C00001,Digital Marketing,M,26-35,21,0,Asia,Central,Student,Technology,4,155.87
+3291929,Customer_600,C00000,Python Programming,M,18-25,39,0,Asia,Central,Retired,Arts,1,438.36
+2417073,Customer_601,C00002,Digital Marketing,M,46-55,19,0,Florida,Eastern,Retired,Technology,3,266.66
+1480689,Customer_602,C00004,Python Programming,F,0-17,18,0,Florida,Central,Self-Employed,Technology,3,366.47
+3509065,Customer_603,C00004,Python Programming,F,36-45,57,1,New York,Eastern,Retired,Arts,2,377.85
+7319923,Customer_604,C00001,Digital Marketing,F,18-25,11,0,California,Northern,Professional,Arts,4,148.13
+8147582,Customer_605,C00000,Graphic Design,F,26-35,35,1,New York,Southern,Student,Arts,2,366.14
+8578634,Customer_606,C00000,Graphic Design,F,55+,23,0,California,Southern,Self-Employed,Technology,4,382.03
+9042575,Customer_607,C00000,Data Science,F,36-45,10,1,California,Southern,Unemployed,Business,1,68.56
+2245160,Customer_608,C00004,Python Programming,F,36-45,42,1,Illinois,Central,Professional,Technology,4,418.77
+7480295,Customer_609,C00001,Graphic Design,F,26-35,19,1,California,Eastern,Self-Employed,Arts,3,151.25
+7682372,Customer_610,C00004,Graphic Design,F,26-35,42,0,New York,Southern,Self-Employed,Technology,4,285.47
+1172799,Customer_611,C00000,Data Science,M,46-55,35,0,California,Northern,Unemployed,Technology,4,199
+7567114,Customer_612,C00000,Python Programming,M,0-17,29,0,Asia,Southern,Student,Arts,2,149.62
+7627193,Customer_613,C00001,Digital Marketing,F,26-35,45,1,Asia,Central,Unemployed,Business,1,108.35
+9546109,Customer_614,C00000,Python Programming,F,26-35,10,1,New York,Western,Unemployed,Technology,3,114.81
+5014564,Customer_615,C00004,Web Development,F,36-45,46,1,Florida,Southern,Professional,Arts,1,355.73
+5141330,Customer_616,C00001,Graphic Design,M,18-25,45,1,Illinois,Central,Professional,Technology,1,273.38
+9873324,Customer_617,C00004,Data Science,F,55+,35,1,California,Central,Retired,Technology,3,365.8
+8854597,Customer_618,C00003,Python Programming,M,18-25,50,1,Florida,Western,Self-Employed,Technology,4,341.13
+4498997,Customer_619,C00003,Data Science,F,55+,56,1,Florida,Southern,Professional,Technology,4,81.05
+5566096,Customer_620,C00004,Web Development,M,26-35,39,0,New York,Southern,Self-Employed,Technology,4,220.8
+4979049,Customer_621,C00002,Digital Marketing,M,0-17,48,1,Florida,Northern,Unemployed,Technology,2,458.75
+9458204,Customer_622,C00000,Digital Marketing,F,26-35,46,1,Florida,Central,Professional,Technology,1,440.35
+1551151,Customer_623,C00003,Graphic Design,F,0-17,45,0,California,Southern,Professional,Technology,4,50.48
+9382777,Customer_624,C00004,Python Programming,F,36-45,39,1,Asia,Southern,Unemployed,Technology,3,70.9
+2648064,Customer_625,C00001,Web Development,M,46-55,30,0,Texas,Eastern,Self-Employed,Technology,4,364.88
+6973542,Customer_626,C00004,Python Programming,M,36-45,28,1,California,Western,Self-Employed,Arts,3,54.19
+9015630,Customer_627,C00003,Python Programming,F,46-55,10,0,Texas,Northern,Student,Business,2,69.85
+6255077,Customer_628,C00000,Data Science,M,55+,11,0,Florida,Western,Student,Technology,1,220.11
+4827466,Customer_629,C00004,Graphic Design,M,36-45,32,0,Texas,Eastern,Student,Technology,2,239.93
+6778135,Customer_630,C00003,Graphic Design,F,26-35,51,1,Florida,Eastern,Self-Employed,Arts,2,211.44
+7349959,Customer_631,C00004,Python Programming,F,55+,57,0,California,Eastern,Unemployed,Arts,1,431.55
+7827096,Customer_632,C00004,Python Programming,F,26-35,28,1,New York,Southern,Retired,Technology,3,78.71
+2722128,Customer_633,C00003,Web Development,F,0-17,18,1,Texas,Western,Retired,Technology,1,311.11
+8498098,Customer_634,C00002,Python Programming,M,26-35,57,1,Illinois,Western,Retired,Technology,4,206.53
+1363218,Customer_635,C00001,Graphic Design,M,55+,58,0,New York,Central,Professional,Arts,2,407.67
+4565067,Customer_636,C00001,Data Science,F,18-25,31,1,Texas,Southern,Retired,Technology,3,411.97
+7985817,Customer_637,C00001,Web Development,M,26-35,56,1,Asia,Northern,Retired,Technology,3,86.88
+1227558,Customer_638,C00003,Data Science,F,18-25,28,1,Florida,Northern,Unemployed,Technology,2,242.53
+4892206,Customer_639,C00002,Python Programming,F,55+,22,1,Florida,Central,Student,Technology,3,177.63
+1752119,Customer_640,C00000,Web Development,F,36-45,25,1,Florida,Eastern,Unemployed,Technology,1,316.57
+1131681,Customer_641,C00000,Data Science,M,36-45,39,0,Florida,Southern,Professional,Arts,1,490.82
+3309141,Customer_642,C00000,Web Development,M,46-55,25,1,Asia,Western,Student,Technology,3,268.84
+5220510,Customer_643,C00002,Digital Marketing,F,55+,17,1,Asia,Central,Self-Employed,Arts,2,94.26
+8755860,Customer_644,C00000,Digital Marketing,M,46-55,33,0,Florida,Western,Self-Employed,Technology,2,427.84
+6256158,Customer_645,C00003,Graphic Design,F,26-35,41,0,California,Western,Professional,Technology,2,275.16
+1830107,Customer_646,C00004,Web Development,M,26-35,56,0,Texas,Western,Unemployed,Business,4,295.82
+1837346,Customer_647,C00000,Web Development,F,55+,31,0,New York,Eastern,Unemployed,Business,2,297.46
+7890891,Customer_648,C00004,Graphic Design,F,46-55,49,1,Texas,Northern,Self-Employed,Arts,3,396.93
+3114850,Customer_649,C00002,Digital Marketing,M,26-35,24,1,Texas,Eastern,Unemployed,Technology,4,115.99
+7223734,Customer_650,C00001,Web Development,F,18-25,35,0,Asia,Eastern,Self-Employed,Arts,2,198.35
+2064827,Customer_651,C00004,Graphic Design,M,36-45,28,1,California,Northern,Unemployed,Arts,4,309.2
+9654067,Customer_652,C00004,Graphic Design,M,0-17,14,0,California,Northern,Professional,Technology,2,410.89
+5156489,Customer_653,C00000,Web Development,F,0-17,57,1,Asia,Central,Unemployed,Arts,3,388.38
+1864342,Customer_654,C00004,Digital Marketing,M,36-45,41,1,Florida,Eastern,Unemployed,Technology,3,390.81
+7857027,Customer_655,C00000,Data Science,M,0-17,43,1,Florida,Southern,Unemployed,Technology,3,484.63
+9865981,Customer_656,C00001,Digital Marketing,F,0-17,16,0,Texas,Western,Retired,Business,1,333.38
+5419416,Customer_657,C00004,Web Development,F,18-25,43,1,California,Southern,Retired,Arts,1,340.37
+9799603,Customer_658,C00001,Web Development,F,36-45,32,0,New York,Southern,Self-Employed,Arts,2,78.39
+3731006,Customer_659,C00001,Web Development,M,55+,54,0,Texas,Southern,Professional,Business,1,58.7
+5851802,Customer_660,C00000,Digital Marketing,F,46-55,19,1,California,Northern,Professional,Technology,4,432.86
+2836133,Customer_661,C00001,Data Science,F,36-45,33,0,Texas,Central,Retired,Technology,1,337.1
+6942900,Customer_662,C00004,Data Science,M,26-35,33,0,California,Eastern,Self-Employed,Technology,2,458.61
+6072031,Customer_663,C00004,Graphic Design,M,26-35,41,0,Texas,Northern,Professional,Technology,2,55.53
+3613404,Customer_664,C00000,Graphic Design,F,36-45,49,1,New York,Central,Professional,Technology,4,426.37
+3138532,Customer_665,C00001,Python Programming,M,0-17,57,1,California,Central,Unemployed,Arts,1,58.53
+5182995,Customer_666,C00001,Python Programming,F,18-25,24,0,Illinois,Central,Retired,Technology,3,468.81
+1084421,Customer_667,C00001,Python Programming,F,26-35,51,1,Florida,Central,Professional,Technology,1,453.91
+8998383,Customer_668,C00001,Python Programming,F,46-55,19,0,California,Western,Retired,Technology,1,483.1
+9509063,Customer_669,C00003,Data Science,M,18-25,46,1,Texas,Western,Unemployed,Technology,3,85.47
+1573199,Customer_670,C00000,Web Development,M,46-55,34,0,Florida,Northern,Retired,Business,4,335.56
+7606989,Customer_671,C00002,Data Science,F,0-17,13,1,Texas,Eastern,Unemployed,Arts,2,151.76
+8022680,Customer_672,C00002,Data Science,F,46-55,15,1,California,Eastern,Professional,Technology,4,149.35
+2304245,Customer_673,C00003,Graphic Design,F,46-55,20,0,Texas,Northern,Student,Technology,3,309.42
+8164271,Customer_674,C00001,Data Science,F,26-35,48,1,California,Eastern,Professional,Technology,4,494.02
+9976851,Customer_675,C00004,Python Programming,F,0-17,38,1,California,Northern,Professional,Technology,2,68.44
+8182731,Customer_676,C00001,Graphic Design,M,46-55,41,1,Florida,Eastern,Unemployed,Business,3,104.51
+7127330,Customer_677,C00001,Python Programming,F,18-25,32,1,California,Southern,Professional,Technology,4,370.01
+8955544,Customer_678,C00002,Graphic Design,F,36-45,51,1,New York,Western,Retired,Business,1,83.79
+2430165,Customer_679,C00003,Graphic Design,M,55+,18,0,Illinois,Northern,Professional,Technology,4,54.77
+6022166,Customer_680,C00000,Digital Marketing,M,36-45,20,1,Asia,Central,Retired,Technology,1,437.41
+6575719,Customer_681,C00001,Graphic Design,M,26-35,31,1,New York,Eastern,Student,Business,2,426.88
+7100651,Customer_682,C00000,Digital Marketing,M,46-55,40,0,California,Northern,Retired,Technology,4,269.2
+7732178,Customer_683,C00000,Web Development,M,18-25,28,1,Illinois,Southern,Retired,Technology,3,208.6
+3446480,Customer_684,C00003,Python Programming,M,18-25,40,1,Texas,Southern,Unemployed,Business,4,421.38
+7880261,Customer_685,C00004,Data Science,F,55+,38,1,Texas,Western,Unemployed,Arts,3,279.92
+8921947,Customer_686,C00001,Web Development,M,46-55,53,0,New York,Northern,Unemployed,Technology,4,461.02
+7035669,Customer_687,C00002,Data Science,M,55+,41,1,Asia,Northern,Retired,Technology,4,443.12
+5491974,Customer_688,C00002,Python Programming,M,46-55,40,0,Florida,Eastern,Professional,Technology,1,76.08
+5840176,Customer_689,C00002,Data Science,F,0-17,42,0,Asia,Central,Unemployed,Arts,2,442.19
+6448423,Customer_690,C00000,Graphic Design,F,36-45,51,1,Illinois,Southern,Professional,Technology,4,330.59
+6507124,Customer_691,C00004,Web Development,F,46-55,38,1,Asia,Central,Professional,Business,3,325.46
+6277309,Customer_692,C00004,Digital Marketing,F,46-55,14,0,Illinois,Southern,Professional,Technology,1,277.86
+3268040,Customer_693,C00003,Data Science,M,18-25,52,1,Florida,Eastern,Unemployed,Arts,2,100.52
+7768810,Customer_694,C00000,Web Development,M,55+,11,0,Texas,Western,Professional,Business,3,314.53
+5928244,Customer_695,C00004,Digital Marketing,F,55+,44,1,Asia,Northern,Student,Business,4,339.01
+2347583,Customer_696,C00002,Python Programming,F,26-35,44,0,California,Southern,Retired,Technology,1,182.98
+6881571,Customer_697,C00002,Python Programming,M,55+,32,0,Asia,Southern,Unemployed,Technology,3,332.14
+2296099,Customer_698,C00002,Web Development,F,36-45,58,1,Texas,Northern,Self-Employed,Business,2,439.38
+3019961,Customer_699,C00004,Digital Marketing,M,36-45,55,1,California,Western,Professional,Business,1,90.55
+3619874,Customer_700,C00002,Web Development,M,36-45,16,1,Texas,Southern,Retired,Technology,1,408.6
+7969828,Customer_701,C00004,Web Development,M,0-17,51,0,Illinois,Central,Self-Employed,Technology,4,395.02
+8753609,Customer_702,C00004,Digital Marketing,M,36-45,35,0,Illinois,Eastern,Self-Employed,Business,1,204.09
+5222111,Customer_703,C00001,Graphic Design,F,18-25,54,0,California,Western,Retired,Arts,2,446.12
+7962030,Customer_704,C00002,Data Science,M,46-55,29,1,Texas,Central,Student,Technology,1,415.01
+9649861,Customer_705,C00004,Data Science,M,18-25,19,1,California,Southern,Retired,Technology,4,57.67
+5930408,Customer_706,C00004,Data Science,M,0-17,44,0,California,Western,Professional,Arts,4,271.98
+6669336,Customer_707,C00002,Web Development,F,0-17,32,0,Asia,Northern,Professional,Technology,1,227.66
+7312880,Customer_708,C00002,Data Science,F,18-25,48,0,Texas,Western,Professional,Technology,4,199
+8102669,Customer_709,C00002,Web Development,M,26-35,51,1,California,Southern,Self-Employed,Arts,2,309.83
+7021560,Customer_710,C00003,Web Development,M,26-35,38,0,California,Eastern,Unemployed,Business,1,448.01
+1244780,Customer_711,C00002,Digital Marketing,M,55+,33,1,Texas,Central,Student,Technology,4,386.12
+1502661,Customer_712,C00001,Python Programming,F,55+,14,1,New York,Northern,Retired,Technology,2,372.39
+8012064,Customer_713,C00000,Digital Marketing,F,0-17,33,1,New York,Western,Self-Employed,Arts,3,308.22
+4350121,Customer_714,C00004,Graphic Design,F,55+,49,0,Florida,Eastern,Professional,Technology,4,108.61
+9688978,Customer_715,C00002,Data Science,F,26-35,27,1,New York,Eastern,Retired,Technology,2,349.39
+5214299,Customer_716,C00003,Digital Marketing,F,55+,18,1,Asia,Central,Student,Technology,4,315.47
+2347704,Customer_717,C00004,Digital Marketing,M,55+,19,1,Texas,Western,Unemployed,Technology,2,258.22
+9540630,Customer_718,C00004,Digital Marketing,M,55+,11,0,California,Western,Professional,Technology,1,346.65
+4717618,Customer_719,C00001,Graphic Design,M,18-25,41,0,Asia,Central,Unemployed,Technology,3,391.48
+8493239,Customer_720,C00003,Graphic Design,F,0-17,25,1,Texas,Eastern,Self-Employed,Technology,2,312.6
+1614254,Customer_721,C00004,Data Science,F,36-45,27,0,Illinois,Western,Unemployed,Arts,2,319.32
+1141076,Customer_722,C00001,Python Programming,M,26-35,15,0,Texas,Northern,Professional,Business,2,302.74
+9934379,Customer_723,C00003,Data Science,M,55+,17,1,New York,Southern,Professional,Technology,4,207.45
+3868635,Customer_724,C00003,Python Programming,F,55+,55,1,Florida,Western,Student,Technology,1,332.94
+3821104,Customer_725,C00002,Python Programming,M,26-35,12,1,California,Northern,Self-Employed,Business,3,453.96
+4367395,Customer_726,C00003,Graphic Design,F,55+,37,0,Asia,Eastern,Student,Technology,4,446.53
+4051739,Customer_727,C00001,Graphic Design,F,18-25,44,0,California,Central,Unemployed,Technology,3,244.01
+2488310,Customer_728,C00003,Digital Marketing,M,55+,16,0,Asia,Northern,Retired,Technology,1,272.35
+3994405,Customer_729,C00003,Data Science,F,18-25,34,1,New York,Northern,Professional,Business,2,496.31
+8448485,Customer_730,C00003,Python Programming,M,18-25,46,0,Asia,Western,Student,Technology,3,170.06
+4332001,Customer_731,C00002,Python Programming,F,26-35,55,0,Florida,Central,Professional,Arts,1,439.74
+4321331,Customer_732,C00004,Python Programming,M,26-35,22,0,Illinois,Central,Retired,Technology,2,58.63
+3292067,Customer_733,C00003,Digital Marketing,M,0-17,23,1,Florida,Northern,Professional,Business,3,237.9
+4295588,Customer_734,C00000,Graphic Design,F,26-35,39,0,Florida,Northern,Unemployed,Business,2,312.4
+7147574,Customer_735,C00004,Graphic Design,F,0-17,55,1,New York,Eastern,Retired,Arts,1,356.86
+6786359,Customer_736,C00000,Digital Marketing,M,18-25,39,0,Florida,Western,Self-Employed,Arts,4,300.45
+4853325,Customer_737,C00003,Data Science,M,55+,27,0,California,Central,Student,Business,1,290.28
+9346420,Customer_738,C00002,Data Science,M,36-45,20,1,Florida,Southern,Professional,Business,2,172.61
+3655533,Customer_739,C00001,Digital Marketing,M,26-35,50,0,New York,Northern,Unemployed,Technology,1,140.75
+7762072,Customer_740,C00004,Graphic Design,F,18-25,37,0,Florida,Southern,Student,Technology,2,199.89
+7859045,Customer_741,C00003,Data Science,M,36-45,40,0,Florida,Northern,Professional,Arts,1,350.2
+5869845,Customer_742,C00000,Python Programming,M,55+,44,0,California,Central,Unemployed,Arts,1,305.92
+6119530,Customer_743,C00003,Python Programming,M,18-25,34,1,California,Western,Retired,Arts,1,138.47
+2258183,Customer_744,C00001,Graphic Design,F,55+,12,1,New York,Southern,Self-Employed,Business,2,168.95
+6084008,Customer_745,C00003,Digital Marketing,M,36-45,19,0,Texas,Eastern,Professional,Technology,3,312.04
+8096258,Customer_746,C00000,Digital Marketing,F,26-35,47,1,California,Central,Professional,Technology,3,316.38
+4466926,Customer_747,C00000,Data Science,M,18-25,16,0,New York,Southern,Professional,Business,3,380.64
+1317361,Customer_748,C00003,Graphic Design,M,26-35,54,1,Asia,Northern,Self-Employed,Technology,4,106.03
+1424287,Customer_749,C00003,Graphic Design,M,0-17,15,0,Florida,Western,Professional,Business,1,475.65
+5308518,Customer_750,C00004,Data Science,M,18-25,53,1,California,Northern,Self-Employed,Arts,2,257.94
+8105583,Customer_751,C00002,Graphic Design,F,36-45,48,1,Illinois,Western,Self-Employed,Technology,1,215.56
+6758838,Customer_752,C00001,Graphic Design,F,18-25,16,0,New York,Northern,Retired,Technology,4,298.81
+9508213,Customer_753,C00002,Data Science,F,46-55,43,0,Illinois,Southern,Student,Business,2,369.32
+3019020,Customer_754,C00003,Graphic Design,F,46-55,20,0,California,Eastern,Unemployed,Business,1,488.04
+6835669,Customer_755,C00002,Data Science,F,0-17,24,1,Illinois,Northern,Self-Employed,Arts,4,426.18
+6957916,Customer_756,C00001,Web Development,M,18-25,34,1,Texas,Southern,Student,Technology,3,176.13
+9946189,Customer_757,C00002,Digital Marketing,M,18-25,19,0,California,Southern,Self-Employed,Arts,3,401.88
+9062608,Customer_758,C00001,Digital Marketing,M,55+,32,1,Florida,Northern,Retired,Business,4,325.72
+7732316,Customer_759,C00000,Graphic Design,M,36-45,50,1,New York,Eastern,Retired,Arts,3,350.92
+2991077,Customer_760,C00000,Python Programming,M,55+,12,1,Illinois,Western,Retired,Technology,4,185.53
+7084837,Customer_761,C00003,Python Programming,F,36-45,28,0,Texas,Southern,Retired,Technology,3,371.3
+4552558,Customer_762,C00002,Digital Marketing,M,36-45,45,0,Illinois,Southern,Student,Technology,4,114.37
+2856197,Customer_763,C00000,Python Programming,M,18-25,50,0,California,Southern,Professional,Technology,2,151.18
+3645847,Customer_764,C00002,Data Science,F,18-25,20,0,Illinois,Southern,Unemployed,Technology,1,76.67
+3528349,Customer_765,C00000,Data Science,F,46-55,42,1,Asia,Northern,Self-Employed,Technology,3,315.02
+7971991,Customer_766,C00003,Web Development,F,26-35,32,1,New York,Western,Professional,Technology,1,84.26
+8319964,Customer_767,C00000,Python Programming,F,36-45,31,1,Illinois,Northern,Student,Arts,1,414.07
+1602109,Customer_768,C00000,Digital Marketing,F,26-35,52,0,Illinois,Eastern,Student,Arts,1,263.84
+3037026,Customer_769,C00001,Web Development,F,55+,19,0,Florida,Western,Unemployed,Technology,3,424.18
+6408296,Customer_770,C00003,Graphic Design,M,55+,26,1,Texas,Central,Unemployed,Technology,3,412.13
+7559275,Customer_771,C00004,Data Science,F,26-35,52,1,Illinois,Eastern,Retired,Arts,2,212.25
+8829421,Customer_772,C00002,Digital Marketing,M,0-17,53,1,Florida,Northern,Professional,Arts,2,382.94
+4872410,Customer_773,C00004,Digital Marketing,F,18-25,33,1,Illinois,Southern,Student,Arts,2,54.1
+7932368,Customer_774,C00004,Python Programming,M,55+,37,0,Illinois,Northern,Professional,Technology,3,271.67
+4732099,Customer_775,C00001,Digital Marketing,F,18-25,33,1,Texas,Northern,Self-Employed,Arts,4,103.5
+7890016,Customer_776,C00004,Graphic Design,F,46-55,55,1,Asia,Northern,Retired,Technology,3,125.58
+1673315,Customer_777,C00000,Python Programming,F,18-25,24,0,Illinois,Eastern,Professional,Technology,1,450.49
+9004213,Customer_778,C00001,Python Programming,M,0-17,56,0,Asia,Central,Self-Employed,Technology,4,453.61
+2971573,Customer_779,C00001,Web Development,F,55+,42,1,Texas,Southern,Unemployed,Arts,3,379
+3816471,Customer_780,C00001,Python Programming,M,18-25,50,1,Illinois,Southern,Retired,Business,3,286.83
+1224355,Customer_781,C00003,Web Development,M,36-45,19,1,Texas,Northern,Retired,Technology,4,302.69
+4422659,Customer_782,C00004,Graphic Design,F,36-45,42,1,Illinois,Northern,Self-Employed,Technology,3,132.7
+7239936,Customer_783,C00001,Digital Marketing,F,46-55,32,0,Texas,Northern,Retired,Technology,4,187.35
+1238001,Customer_784,C00000,Graphic Design,F,55+,46,1,California,Northern,Student,Technology,1,80.29
+5864439,Customer_785,C00000,Python Programming,M,36-45,55,0,Illinois,Eastern,Retired,Technology,2,199.13
+6065768,Customer_786,C00001,Digital Marketing,F,0-17,57,0,Florida,Eastern,Professional,Technology,3,407.85
+5364922,Customer_787,C00003,Digital Marketing,F,18-25,40,0,Illinois,Western,Unemployed,Technology,3,294.8
+4592903,Customer_788,C00002,Data Science,F,26-35,18,1,Illinois,Western,Professional,Technology,3,478.44
+3654860,Customer_789,C00001,Graphic Design,M,18-25,43,0,Florida,Eastern,Self-Employed,Business,3,313.96
+6096072,Customer_790,C00002,Web Development,F,0-17,56,1,Illinois,Northern,Retired,Technology,3,488.35
+1049113,Customer_791,C00003,Graphic Design,M,18-25,22,0,California,Southern,Unemployed,Technology,4,170.04
+4960795,Customer_792,C00001,Graphic Design,M,18-25,43,0,Florida,Eastern,Unemployed,Arts,2,174.45
+2119512,Customer_793,C00001,Digital Marketing,F,36-45,34,0,Florida,Eastern,Retired,Technology,3,184.88
+4204434,Customer_794,C00000,Graphic Design,M,0-17,50,0,Texas,Western,Professional,Business,2,240.74
+1212793,Customer_795,C00001,Graphic Design,M,36-45,46,1,Texas,Central,Student,Technology,4,271.12
+1790815,Customer_796,C00001,Graphic Design,F,46-55,45,1,Florida,Southern,Self-Employed,Business,4,136.44
+2269857,Customer_797,C00001,Data Science,F,55+,57,0,Florida,Southern,Retired,Technology,3,145.27
+5481690,Customer_798,C00000,Digital Marketing,M,55+,16,0,Illinois,Central,Student,Arts,2,102.6
+8474190,Customer_799,C00002,Web Development,M,46-55,57,1,California,Western,Retired,Technology,1,51.18
+3510860,Customer_800,C00000,Python Programming,F,0-17,35,1,Texas,Southern,Self-Employed,Technology,3,58.19
+1674584,Customer_801,C00000,Digital Marketing,F,0-17,56,1,New York,Western,Professional,Technology,4,177.43
+2113672,Customer_802,C00001,Data Science,F,46-55,15,0,Illinois,Western,Professional,Technology,2,391.21
+8416951,Customer_803,C00001,Web Development,F,55+,49,1,Asia,Northern,Self-Employed,Technology,1,103.95
+2825161,Customer_804,C00004,Python Programming,M,55+,51,1,Illinois,Central,Self-Employed,Technology,4,298.46
+3012340,Customer_805,C00004,Digital Marketing,F,26-35,53,0,Asia,Central,Professional,Technology,2,94.49
+4400593,Customer_806,C00003,Python Programming,M,55+,35,1,California,Northern,Professional,Business,1,78.04
+5552547,Customer_807,C00004,Data Science,F,55+,59,0,Texas,Western,Retired,Technology,4,154.25
+1271200,Customer_808,C00001,Graphic Design,M,46-55,43,0,New York,Western,Student,Arts,1,149.81
+2100526,Customer_809,C00003,Python Programming,F,18-25,23,1,Texas,Southern,Retired,Arts,2,320.42
+9463102,Customer_810,C00002,Digital Marketing,F,46-55,55,0,Texas,Central,Unemployed,Business,1,311.14
+6056371,Customer_811,C00004,Data Science,F,55+,17,0,California,Southern,Student,Technology,2,57.9
+9471388,Customer_812,C00004,Data Science,M,46-55,25,1,Illinois,Southern,Student,Arts,2,56.63
+2676113,Customer_813,C00001,Data Science,M,36-45,29,1,California,Central,Self-Employed,Technology,1,342.93
+4107460,Customer_814,C00001,Graphic Design,F,0-17,44,1,Texas,Southern,Retired,Technology,2,399.59
+2177782,Customer_815,C00000,Graphic Design,M,36-45,41,1,New York,Central,Student,Technology,2,349.29
+3651137,Customer_816,C00000,Digital Marketing,F,36-45,36,1,Illinois,Western,Student,Business,2,233.34
+9892545,Customer_817,C00004,Data Science,M,36-45,53,1,California,Western,Self-Employed,Technology,3,286.5
+3265224,Customer_818,C00004,Web Development,M,18-25,14,0,Asia,Eastern,Professional,Technology,2,337.96
+5636374,Customer_819,C00003,Data Science,F,0-17,35,1,Florida,Southern,Unemployed,Technology,3,76.19
+3440639,Customer_820,C00004,Digital Marketing,F,46-55,35,0,New York,Southern,Professional,Business,1,337.28
+2967196,Customer_821,C00001,Data Science,F,18-25,30,1,Florida,Central,Student,Business,3,474.21
+9447907,Customer_822,C00001,Data Science,M,36-45,10,0,Texas,Southern,Unemployed,Arts,3,406.54
+9957388,Customer_823,C00003,Web Development,M,18-25,20,0,New York,Eastern,Professional,Technology,3,260.79
+9481026,Customer_824,C00002,Digital Marketing,M,18-25,40,0,Asia,Northern,Professional,Technology,3,459
+6656513,Customer_825,C00002,Data Science,F,55+,59,0,New York,Northern,Retired,Technology,3,230.96
+4658654,Customer_826,C00001,Graphic Design,M,36-45,21,1,Asia,Western,Retired,Technology,1,478.54
+5243603,Customer_827,C00000,Python Programming,F,36-45,38,0,Asia,Eastern,Unemployed,Technology,3,133.68
+2033059,Customer_828,C00002,Web Development,F,18-25,22,1,Illinois,Western,Unemployed,Technology,4,206.3
+1480711,Customer_829,C00000,Web Development,F,18-25,18,1,Texas,Central,Student,Business,2,210.73
+7555117,Customer_830,C00001,Digital Marketing,M,0-17,15,1,Asia,Northern,Retired,Technology,1,235.41
+6860729,Customer_831,C00001,Graphic Design,F,0-17,15,1,California,Central,Self-Employed,Technology,3,191.54
+3619420,Customer_832,C00000,Graphic Design,M,36-45,47,0,New York,Eastern,Student,Technology,4,296.88
+6376803,Customer_833,C00001,Graphic Design,M,36-45,59,0,California,Western,Self-Employed,Arts,1,162.16
+5049775,Customer_834,C00004,Digital Marketing,M,18-25,20,1,Texas,Western,Retired,Technology,1,97.65
+2592649,Customer_835,C00001,Digital Marketing,M,55+,57,0,Texas,Southern,Professional,Technology,3,493.13
+4906154,Customer_836,C00004,Digital Marketing,M,26-35,10,0,Florida,Eastern,Professional,Technology,2,368.89
+9228946,Customer_837,C00003,Data Science,F,0-17,57,0,California,Eastern,Student,Technology,1,320.77
+6779071,Customer_838,C00000,Data Science,M,26-35,29,1,California,Western,Unemployed,Arts,4,274.05
+3586038,Customer_839,C00002,Web Development,F,18-25,36,0,Illinois,Central,Retired,Technology,1,214.51
+5834373,Customer_840,C00003,Web Development,F,46-55,23,0,Texas,Southern,Self-Employed,Technology,2,220.38
+1970650,Customer_841,C00000,Python Programming,M,46-55,34,0,Texas,Western,Self-Employed,Technology,2,112.58
+2353551,Customer_842,C00002,Python Programming,F,46-55,52,1,Texas,Northern,Student,Technology,4,310.83
+3770813,Customer_843,C00004,Web Development,F,46-55,28,0,Asia,Southern,Student,Technology,4,148.79
+5877566,Customer_844,C00002,Python Programming,F,18-25,19,0,Texas,Southern,Retired,Technology,2,415.16
+6288761,Customer_845,C00004,Data Science,M,0-17,22,1,Illinois,Western,Professional,Arts,2,188.35
+2368899,Customer_846,C00001,Web Development,M,0-17,37,1,Florida,Northern,Student,Technology,2,138.83
+8877595,Customer_847,C00001,Digital Marketing,F,26-35,23,1,Texas,Southern,Retired,Business,2,148.97
+5340583,Customer_848,C00004,Graphic Design,F,36-45,18,0,New York,Central,Professional,Arts,1,353.71
+6198514,Customer_849,C00003,Digital Marketing,M,46-55,44,0,Florida,Western,Unemployed,Technology,2,308.03
+3400584,Customer_850,C00002,Python Programming,F,0-17,13,1,Illinois,Central,Unemployed,Arts,2,275.89
+1309491,Customer_851,C00004,Digital Marketing,F,18-25,16,1,Florida,Central,Unemployed,Business,2,263.36
+1732204,Customer_852,C00003,Web Development,F,36-45,24,1,Florida,Western,Self-Employed,Technology,1,268.48
+6273606,Customer_853,C00002,Web Development,M,26-35,27,1,Illinois,Central,Unemployed,Business,1,297.25
+2044460,Customer_854,C00003,Python Programming,F,26-35,19,1,New York,Eastern,Retired,Arts,3,424.15
+1441799,Customer_855,C00004,Web Development,M,0-17,27,1,Asia,Northern,Student,Technology,2,210.49
+1550740,Customer_856,C00002,Digital Marketing,M,18-25,30,0,Asia,Northern,Professional,Technology,4,472.35
+4678595,Customer_857,C00002,Graphic Design,M,18-25,51,0,Texas,Central,Retired,Arts,4,79.9
+1389895,Customer_858,C00003,Python Programming,F,55+,17,1,Asia,Northern,Professional,Technology,4,468.63
+8333325,Customer_859,C00001,Graphic Design,F,0-17,24,1,Asia,Southern,Student,Technology,2,244.72
+2359161,Customer_860,C00002,Data Science,M,0-17,31,0,New York,Southern,Self-Employed,Arts,1,361.27
+1776850,Customer_861,C00003,Graphic Design,F,0-17,42,1,Texas,Northern,Student,Technology,1,427.74
+5338108,Customer_862,C00001,Web Development,M,0-17,44,0,Illinois,Eastern,Student,Arts,1,53.11
+5830808,Customer_863,C00000,Digital Marketing,F,18-25,59,0,California,Eastern,Student,Business,3,278.71
+9502497,Customer_864,C00003,Graphic Design,F,18-25,13,1,Illinois,Western,Professional,Arts,3,136.02
+6249122,Customer_865,C00002,Graphic Design,F,0-17,46,1,Florida,Western,Student,Arts,1,80.51
+9530796,Customer_866,C00000,Digital Marketing,F,18-25,39,0,Texas,Southern,Retired,Technology,3,407.49
+1884972,Customer_867,C00004,Python Programming,M,26-35,32,1,Illinois,Northern,Unemployed,Technology,2,52.07
+6491294,Customer_868,C00000,Digital Marketing,M,55+,25,0,New York,Central,Unemployed,Technology,3,311.98
+5847323,Customer_869,C00000,Data Science,F,18-25,50,1,Asia,Western,Retired,Business,3,263.55
+3755393,Customer_870,C00000,Graphic Design,M,18-25,43,0,California,Northern,Self-Employed,Business,3,488.13
+5349583,Customer_871,C00001,Digital Marketing,F,55+,47,0,New York,Eastern,Unemployed,Business,3,472.14
+2980675,Customer_872,C00001,Graphic Design,M,36-45,27,1,Asia,Northern,Professional,Technology,4,158.11
+9544691,Customer_873,C00001,Python Programming,F,18-25,24,1,New York,Eastern,Self-Employed,Business,4,214.76
+6798551,Customer_874,C00000,Graphic Design,M,0-17,13,0,Florida,Western,Student,Arts,1,221.98
+8656676,Customer_875,C00002,Graphic Design,M,55+,42,0,Texas,Southern,Self-Employed,Technology,1,404.02
+3270229,Customer_876,C00002,Digital Marketing,F,0-17,26,1,Texas,Eastern,Student,Technology,2,190.41
+6102530,Customer_877,C00000,Python Programming,M,0-17,47,0,Illinois,Northern,Unemployed,Arts,3,249.41
+9925555,Customer_878,C00000,Data Science,F,46-55,14,1,Asia,Western,Student,Arts,1,335.35
+7258655,Customer_879,C00002,Digital Marketing,M,18-25,58,1,Florida,Central,Self-Employed,Technology,3,323.68
+4914169,Customer_880,C00003,Digital Marketing,F,55+,41,1,Illinois,Western,Student,Technology,1,487.12
+6090828,Customer_881,C00004,Python Programming,M,36-45,34,0,Texas,Western,Retired,Technology,1,423.64
+7690404,Customer_882,C00000,Web Development,M,0-17,22,1,Florida,Southern,Student,Technology,3,235.42
+8848121,Customer_883,C00000,Graphic Design,F,0-17,33,0,Texas,Southern,Retired,Business,1,488.04
+9889190,Customer_884,C00001,Digital Marketing,M,55+,23,1,Florida,Eastern,Professional,Technology,2,107.81
+4887307,Customer_885,C00001,Python Programming,M,46-55,54,1,California,Eastern,Retired,Technology,2,222.52
+4535261,Customer_886,C00000,Digital Marketing,F,26-35,32,0,California,Eastern,Self-Employed,Technology,2,382.45
+1962917,Customer_887,C00003,Python Programming,F,46-55,33,0,Texas,Central,Professional,Technology,2,279.96
+7942261,Customer_888,C00003,Python Programming,M,0-17,33,0,Asia,Southern,Self-Employed,Technology,2,105.43
+1832936,Customer_889,C00001,Data Science,F,55+,32,0,Florida,Northern,Professional,Business,3,111.62
+3661801,Customer_890,C00004,Python Programming,F,0-17,28,0,Illinois,Southern,Professional,Technology,4,123.59
+1738392,Customer_891,C00000,Python Programming,F,18-25,34,1,California,Northern,Retired,Technology,2,363.73
+4025831,Customer_892,C00003,Web Development,F,26-35,54,1,Illinois,Central,Professional,Technology,3,200.36
+6970889,Customer_893,C00003,Graphic Design,M,0-17,22,1,California,Central,Self-Employed,Technology,3,132.79
+1104232,Customer_894,C00000,Data Science,F,36-45,48,0,Texas,Northern,Self-Employed,Business,1,463.65
+5770309,Customer_895,C00004,Graphic Design,F,55+,56,1,Illinois,Northern,Professional,Technology,2,350.72
+4781591,Customer_896,C00001,Digital Marketing,F,0-17,21,1,Asia,Eastern,Professional,Arts,1,77.33
+2064592,Customer_897,C00000,Data Science,M,55+,23,1,Asia,Central,Student,Arts,3,444.77
+7503706,Customer_898,C00004,Data Science,M,46-55,10,1,Florida,Southern,Student,Business,4,485.42
+5327883,Customer_899,C00002,Python Programming,F,55+,25,1,California,Northern,Professional,Technology,1,252.85
+7480238,Customer_788,C00002,Graphic Design,M,0-17,46,0,Asia,Western,Student,Technology,1,367.05
+2462229,Customer_789,C00004,Web Development,M,55+,39,0,New York,Western,Professional,Technology,3,234.59
+1467036,Customer_790,C00001,Digital Marketing,F,26-35,10,0,Asia,Northern,Professional,Technology,1,108.98
+2684468,Customer_791,C00003,Python Programming,F,0-17,49,1,Texas,Northern,Professional,Technology,3,115.54
+5175332,Customer_792,C00002,Digital Marketing,M,36-45,32,0,California,Southern,Unemployed,Technology,2,353.33
+2794982,Customer_793,C00001,Python Programming,F,0-17,12,0,Florida,Northern,Retired,Technology,4,337.05
+1789883,Customer_794,C00004,Digital Marketing,M,18-25,47,0,California,Western,Student,Arts,3,364.37
+2918183,Customer_795,C00004,Graphic Design,M,55+,58,1,Illinois,Western,Self-Employed,Arts,1,138.78
+3169212,Customer_796,C00000,Web Development,M,46-55,29,0,Illinois,Central,Unemployed,Business,2,241.68
+4783308,Customer_797,C00003,Data Science,M,46-55,17,0,Illinois,Northern,Unemployed,Technology,2,137.51
+5889167,Customer_798,C00000,Graphic Design,M,55+,24,1,Texas,Northern,Unemployed,Technology,2,188.77
+1323465,Customer_799,C00004,Digital Marketing,M,55+,44,1,Asia,Western,Professional,Arts,2,154.41
+1740109,Customer_800,C00001,Python Programming,F,0-17,40,1,Texas,Southern,Retired,Technology,3,63.65
+7787654,Customer_801,C00003,Graphic Design,M,26-35,13,0,Illinois,Western,Self-Employed,Technology,4,266.86
+1436594,Customer_802,C00002,Graphic Design,F,55+,20,0,Texas,Southern,Self-Employed,Technology,1,265.66
+8897521,Customer_803,C00000,Digital Marketing,M,46-55,54,1,Texas,Southern,Unemployed,Arts,4,224.36
+9883219,Customer_804,C00001,Digital Marketing,M,55+,32,1,Illinois,Northern,Unemployed,Arts,1,93.86
+3999836,Customer_805,C00002,Web Development,M,26-35,57,0,Florida,Northern,Professional,Business,2,260.83
+6764731,Customer_806,C00003,Data Science,M,36-45,52,0,Asia,Southern,Self-Employed,Technology,3,307.87
+9361000,Customer_807,C00003,Digital Marketing,M,26-35,56,0,New York,Central,Student,Technology,2,176.32
+4408480,Customer_808,C00000,Data Science,M,55+,33,1,Texas,Eastern,Retired,Arts,3,483.09
+4234252,Customer_809,C00001,Graphic Design,M,26-35,58,1,Illinois,Eastern,Professional,Business,2,203.83
+3768695,Customer_810,C00001,Web Development,M,18-25,19,1,Florida,Northern,Retired,Business,3,102.85
+2260325,Customer_811,C00003,Graphic Design,M,46-55,43,0,Asia,Northern,Retired,Technology,2,145.06
+9680146,Customer_812,C00004,Graphic Design,M,46-55,59,1,Texas,Northern,Retired,Arts,3,458.85
+8167773,Customer_813,C00001,Graphic Design,F,0-17,36,0,New York,Northern,Unemployed,Technology,2,279.17
+7733748,Customer_814,C00004,Graphic Design,M,36-45,18,1,Florida,Southern,Retired,Technology,3,498.49
+8689047,Customer_815,C00004,Web Development,M,26-35,39,1,Florida,Northern,Unemployed,Technology,1,490.55
+4839233,Customer_816,C00002,Python Programming,M,36-45,38,1,New York,Southern,Unemployed,Business,3,276.5
+3791155,Customer_817,C00000,Python Programming,M,26-35,43,1,Illinois,Southern,Retired,Technology,3,336.11
+1735915,Customer_818,C00003,Data Science,M,46-55,59,0,New York,Central,Unemployed,Arts,4,210.32
+7486125,Customer_819,C00003,Data Science,M,55+,50,0,New York,Western,Professional,Technology,3,401.6
+4346409,Customer_820,C00002,Python Programming,F,46-55,54,1,Illinois,Northern,Self-Employed,Arts,1,276.75
+1085874,Customer_821,C00004,Data Science,M,0-17,28,1,Illinois,Western,Self-Employed,Arts,1,304.04
+6151174,Customer_822,C00001,Data Science,M,55+,24,0,California,Southern,Unemployed,Technology,2,345.96
+3617442,Customer_823,C00002,Digital Marketing,F,46-55,12,1,Florida,Central,Student,Technology,3,316.36
+7077643,Customer_824,C00002,Digital Marketing,M,0-17,50,1,Florida,Western,Unemployed,Technology,2,196.28
+3477664,Customer_825,C00004,Python Programming,M,36-45,20,1,Illinois,Central,Unemployed,Arts,2,161.33
+3375043,Customer_826,C00001,Graphic Design,M,46-55,35,1,California,Southern,Retired,Business,2,128.79
+9182386,Customer_827,C00002,Web Development,M,0-17,16,0,New York,Northern,Retired,Technology,4,398.3
+3520145,Customer_828,C00004,Digital Marketing,M,18-25,38,0,New York,Western,Retired,Technology,3,127.02
+9113964,Customer_829,C00004,Python Programming,M,46-55,38,1,Texas,Northern,Professional,Arts,1,265.67
+3782032,Customer_830,C00004,Python Programming,F,0-17,26,0,Florida,Western,Student,Technology,4,198.4
+4644207,Customer_831,C00004,Web Development,M,55+,49,1,New York,Southern,Self-Employed,Technology,4,186.09
+2788570,Customer_832,C00002,Python Programming,F,55+,31,0,Asia,Northern,Student,Technology,4,157.02
+4214614,Customer_833,C00003,Web Development,M,18-25,32,0,California,Western,Unemployed,Technology,3,58.6
+5900172,Customer_834,C00002,Digital Marketing,M,36-45,28,1,Florida,Northern,Unemployed,Technology,1,259.84
+4634320,Customer_835,C00004,Web Development,F,18-25,10,0,Illinois,Northern,Retired,Arts,4,151.9
+2039763,Customer_836,C00001,Data Science,F,26-35,18,0,Asia,Northern,Student,Business,1,379.76
+4235973,Customer_837,C00002,Graphic Design,M,0-17,59,1,California,Northern,Unemployed,Technology,1,498.76
+5280824,Customer_838,C00001,Digital Marketing,M,18-25,12,1,New York,Eastern,Self-Employed,Technology,4,332.4
+8637027,Customer_839,C00000,Digital Marketing,F,46-55,19,0,Asia,Eastern,Student,Technology,3,306.37
+3995718,Customer_840,C00004,Digital Marketing,M,55+,45,0,Florida,Central,Professional,Business,4,403.97
+1718449,Customer_841,C00002,Graphic Design,M,26-35,23,0,New York,Western,Retired,Business,1,75.34
+3826332,Customer_842,C00004,Graphic Design,M,26-35,52,1,Texas,Central,Student,Technology,3,236.59
+9257801,Customer_843,C00001,Web Development,F,36-45,38,1,New York,Eastern,Professional,Technology,3,214.7
+3132797,Customer_844,C00003,Web Development,M,55+,54,0,Illinois,Eastern,Student,Technology,1,498.73
+8196561,Customer_845,C00003,Data Science,F,18-25,31,1,Asia,Central,Professional,Arts,2,364.4
+2710387,Customer_846,C00001,Web Development,M,55+,10,0,Asia,Western,Retired,Business,3,368.46
+4845917,Customer_847,C00002,Web Development,F,0-17,29,0,New York,Central,Unemployed,Technology,2,219.02
+5197236,Customer_848,C00004,Data Science,M,26-35,18,1,Asia,Central,Self-Employed,Technology,1,419.68
+5332465,Customer_849,C00002,Data Science,M,55+,44,1,Illinois,Western,Retired,Business,4,208.41
+5377245,Customer_850,C00001,Web Development,M,18-25,34,1,California,Central,Self-Employed,Technology,1,69.67
+6586148,Customer_851,C00004,Data Science,F,0-17,20,0,New York,Southern,Retired,Technology,4,199.06
+5784432,Customer_852,C00001,Digital Marketing,F,0-17,55,1,California,Northern,Self-Employed,Technology,2,209.09
+8750574,Customer_853,C00000,Python Programming,M,26-35,22,1,Texas,Eastern,Unemployed,Technology,4,381.84
+9386682,Customer_854,C00000,Python Programming,M,26-35,15,0,California,Northern,Self-Employed,Technology,2,451.14
+5867704,Customer_855,C00002,Graphic Design,M,0-17,46,0,Texas,Eastern,Professional,Technology,4,296.98
+1937865,Customer_856,C00002,Graphic Design,M,0-17,51,1,Asia,Western,Student,Arts,2,126.29
+7398300,Customer_857,C00003,Digital Marketing,M,18-25,18,0,New York,Northern,Student,Technology,1,59.6
+1291294,Customer_858,C00000,Digital Marketing,F,0-17,12,1,Florida,Eastern,Unemployed,Technology,2,395.08
+7391311,Customer_859,C00000,Data Science,M,55+,34,1,New York,Eastern,Student,Technology,2,295.22
+9517618,Customer_860,C00004,Data Science,M,36-45,51,1,Illinois,Eastern,Self-Employed,Technology,1,285.69
+3682790,Customer_861,C00003,Web Development,M,0-17,52,0,New York,Southern,Professional,Technology,1,356.4
+2439500,Customer_862,C00001,Graphic Design,F,0-17,36,1,Florida,Western,Student,Arts,2,195.54
+5020043,Customer_863,C00004,Web Development,M,0-17,28,1,New York,Central,Unemployed,Arts,1,450.6
+8806109,Customer_864,C00003,Python Programming,F,0-17,47,0,Florida,Northern,Retired,Arts,1,101.9
+9328851,Customer_865,C00004,Python Programming,M,26-35,52,0,New York,Western,Unemployed,Business,4,140.58
+4451122,Customer_866,C00003,Data Science,M,26-35,25,0,Illinois,Northern,Student,Business,3,414.56
+5381409,Customer_867,C00000,Graphic Design,M,0-17,27,1,Illinois,Southern,Unemployed,Technology,3,418.24
+1718528,Customer_868,C00004,Digital Marketing,M,26-35,50,1,California,Central,Unemployed,Arts,4,68.16
+2560397,Customer_869,C00002,Graphic Design,F,0-17,25,0,Illinois,Central,Retired,Business,1,321.79
+2683914,Customer_870,C00004,Digital Marketing,M,26-35,59,0,New York,Eastern,Professional,Arts,4,359.49
+4256599,Customer_871,C00003,Web Development,M,26-35,58,0,Texas,Northern,Student,Technology,1,130.92
+6052117,Customer_872,C00002,Digital Marketing,M,18-25,10,0,Florida,Northern,Self-Employed,Technology,2,231.23
+9056698,Customer_873,C00000,Data Science,F,36-45,51,0,Florida,Southern,Student,Technology,4,337.94
+6734909,Customer_874,C00000,Graphic Design,M,46-55,42,1,California,Eastern,Retired,Arts,1,83.06
+5976166,Customer_875,C00004,Digital Marketing,F,46-55,56,0,New York,Eastern,Professional,Technology,2,300.36
+2550175,Customer_876,C00002,Web Development,F,36-45,32,0,Asia,Northern,Self-Employed,Arts,4,249.85
+3014875,Customer_877,C00003,Digital Marketing,F,55+,45,1,Illinois,Western,Retired,Technology,3,220.52
+9534240,Customer_878,C00004,Web Development,F,46-55,24,0,Asia,Northern,Self-Employed,Technology,3,172.77
+9776877,Customer_879,C00002,Digital Marketing,F,0-17,42,1,Florida,Northern,Unemployed,Arts,3,390.15
+1285829,Customer_880,C00002,Python Programming,M,26-35,42,1,Florida,Western,Professional,Technology,1,340.79
+2976456,Customer_881,C00002,Data Science,F,18-25,23,1,Florida,Northern,Unemployed,Technology,4,312.42
+2480210,Customer_882,C00001,Graphic Design,M,55+,31,0,Asia,Western,Self-Employed,Technology,2,392.04
+1494383,Customer_883,C00000,Data Science,M,0-17,32,0,Texas,Southern,Unemployed,Technology,4,78.97
+4408187,Customer_884,C00003,Graphic Design,M,55+,20,1,Texas,Western,Student,Technology,1,152.66
+1312738,Customer_885,C00000,Digital Marketing,F,26-35,31,1,Texas,Western,Retired,Technology,4,254.61
+8995412,Customer_886,C00004,Data Science,M,55+,29,0,California,Central,Unemployed,Technology,1,286.18
+3085619,Customer_887,C00003,Python Programming,M,36-45,11,0,California,Eastern,Unemployed,Arts,3,297.89
+9570915,Customer_888,C00002,Digital Marketing,F,26-35,51,0,Asia,Eastern,Professional,Business,3,280.58
+1348190,Customer_889,C00000,Python Programming,F,46-55,45,0,California,Southern,Professional,Technology,2,219.63
+9101091,Customer_890,C00002,Digital Marketing,F,36-45,26,1,New York,Central,Unemployed,Arts,4,67.83
+5934076,Customer_891,C00000,Web Development,F,55+,18,0,California,Southern,Unemployed,Technology,1,439.93
+6254395,Customer_892,C00002,Graphic Design,M,55+,13,0,Texas,Eastern,Professional,Business,2,206.73
+4977509,Customer_893,C00001,Graphic Design,M,18-25,31,0,New York,Southern,Student,Technology,2,325.01
+2987123,Customer_894,C00003,Python Programming,M,36-45,25,0,New York,Northern,Professional,Technology,3,333.95
+5317463,Customer_895,C00001,Python Programming,M,36-45,34,0,California,Central,Retired,Technology,4,367.42
+6655457,Customer_896,C00001,Python Programming,F,0-17,39,0,New York,Northern,Unemployed,Technology,2,313.71
+4354048,Customer_897,C00001,Web Development,M,36-45,33,0,Texas,Western,Self-Employed,Arts,4,366.15
+8076980,Customer_898,C00000,Digital Marketing,M,46-55,10,1,Texas,Southern,Retired,Technology,4,444.18
+7937555,Customer_899,C00003,Data Science,M,0-17,54,0,Texas,Northern,Professional,Business,2,492.56
+2694671,Customer_900,C00003,Python Programming,F,55+,10,0,Illinois,Southern,Retired,Technology,4,391.19
+9094929,Customer_901,C00002,Python Programming,M,0-17,43,1,Asia,Central,Student,Arts,3,387.4
+5263098,Customer_902,C00000,Web Development,F,26-35,17,1,Texas,Southern,Unemployed,Technology,3,451
+9591705,Customer_903,C00002,Data Science,M,26-35,37,0,Asia,Northern,Retired,Technology,2,304.37
+7783055,Customer_904,C00004,Graphic Design,M,46-55,32,0,California,Western,Unemployed,Business,2,424.75
+8207620,Customer_905,C00003,Python Programming,M,55+,36,1,California,Western,Professional,Technology,4,373.96
+9115336,Customer_906,C00004,Graphic Design,M,0-17,31,0,Florida,Western,Self-Employed,Technology,4,339.09
+9265175,Customer_907,C00003,Python Programming,M,26-35,46,0,Asia,Northern,Self-Employed,Arts,3,488.41
+1742018,Customer_908,C00004,Digital Marketing,M,36-45,35,1,Florida,Southern,Retired,Arts,2,50.12
+4504686,Customer_909,C00000,Python Programming,M,26-35,37,0,Texas,Western,Self-Employed,Arts,1,280.83
+8839916,Customer_910,C00001,Python Programming,M,46-55,19,0,New York,Western,Retired,Business,1,300.79
+8897138,Customer_911,C00001,Python Programming,M,0-17,58,1,Asia,Northern,Self-Employed,Arts,2,141.25
+5702399,Customer_912,C00001,Web Development,F,26-35,39,1,Texas,Western,Professional,Business,2,321.5
+9467158,Customer_913,C00002,Web Development,M,0-17,36,1,Asia,Southern,Student,Technology,1,152.82
+6285590,Customer_914,C00003,Python Programming,F,46-55,19,1,California,Western,Professional,Technology,3,181.18
+3531509,Customer_915,C00000,Web Development,M,46-55,58,1,New York,Northern,Retired,Technology,4,487.58
+7451462,Customer_916,C00002,Web Development,M,18-25,39,0,New York,Eastern,Professional,Technology,3,276.08
+9380288,Customer_917,C00002,Data Science,M,55+,53,1,Asia,Central,Unemployed,Business,3,104.54
+2867379,Customer_918,C00004,Python Programming,F,0-17,20,1,Asia,Central,Unemployed,Technology,1,415.33
+9090255,Customer_919,C00000,Web Development,M,0-17,48,1,California,Southern,Professional,Technology,4,88.05
+5583294,Customer_920,C00004,Graphic Design,M,18-25,51,1,New York,Western,Retired,Technology,2,381.5
+8381584,Customer_921,C00003,Graphic Design,M,55+,32,1,Illinois,Eastern,Retired,Technology,4,185.88
+6082624,Customer_922,C00004,Data Science,M,46-55,26,0,Florida,Eastern,Self-Employed,Technology,4,430.51
+9592011,Customer_923,C00002,Digital Marketing,F,55+,30,0,Florida,Central,Self-Employed,Business,4,99.12
+5847064,Customer_924,C00003,Graphic Design,F,0-17,47,1,New York,Central,Student,Arts,4,272.59
+3074929,Customer_925,C00004,Data Science,M,36-45,54,1,Asia,Southern,Self-Employed,Arts,4,82.77
+9965342,Customer_926,C00004,Web Development,M,55+,37,1,New York,Northern,Unemployed,Technology,3,437.71
+9676315,Customer_927,C00000,Digital Marketing,F,18-25,20,1,New York,Eastern,Unemployed,Technology,4,470.27
+6171573,Customer_928,C00000,Digital Marketing,M,46-55,55,1,Florida,Southern,Retired,Technology,3,368.59
+3315978,Customer_929,C00004,Digital Marketing,F,36-45,49,0,Texas,Northern,Self-Employed,Technology,4,439.4
+9303853,Customer_930,C00004,Graphic Design,M,26-35,55,1,Texas,Central,Self-Employed,Technology,3,121.22
+1150652,Customer_931,C00000,Digital Marketing,M,18-25,54,0,Asia,Eastern,Student,Arts,1,255.33
+8481723,Customer_932,C00004,Python Programming,M,46-55,51,0,Texas,Central,Professional,Technology,3,310.4
+5364895,Customer_933,C00000,Web Development,F,55+,39,0,Florida,Western,Self-Employed,Technology,2,483.66
+3073581,Customer_934,C00004,Web Development,M,18-25,15,0,Florida,Central,Self-Employed,Technology,2,315.82
+2715238,Customer_935,C00002,Digital Marketing,F,55+,12,0,Asia,Northern,Student,Technology,4,250.67
+5673182,Customer_936,C00004,Digital Marketing,F,55+,58,1,Texas,Western,Professional,Technology,4,463.4
+2509993,Customer_937,C00000,Digital Marketing,M,36-45,28,1,Illinois,Central,Professional,Technology,4,357.82
+7914574,Customer_938,C00004,Web Development,M,0-17,46,0,Illinois,Northern,Self-Employed,Technology,3,465.7
+8610500,Customer_939,C00000,Digital Marketing,M,18-25,48,0,Asia,Western,Self-Employed,Arts,2,80.88
+8626299,Customer_940,C00003,Digital Marketing,M,55+,41,0,California,Western,Retired,Business,4,85.85
+8718932,Customer_941,C00004,Web Development,M,26-35,58,0,Illinois,Eastern,Self-Employed,Technology,4,428.58
+7448436,Customer_942,C00001,Data Science,M,46-55,18,1,California,Northern,Student,Technology,4,422.42
+2914390,Customer_943,C00002,Web Development,M,55+,32,1,Florida,Northern,Retired,Technology,4,109.11
+9143366,Customer_944,C00003,Data Science,M,36-45,48,0,Illinois,Central,Self-Employed,Business,4,302.78
+2633563,Customer_945,C00001,Graphic Design,F,46-55,29,0,Asia,Eastern,Retired,Technology,4,195.32
+5689360,Customer_946,C00003,Graphic Design,M,26-35,33,1,Florida,Central,Student,Technology,3,182.78
+1082944,Customer_947,C00001,Data Science,M,36-45,15,1,Illinois,Western,Self-Employed,Business,4,120.24
+1335178,Customer_948,C00003,Web Development,F,18-25,38,0,California,Southern,Retired,Arts,3,206.54
+3916140,Customer_949,C00003,Python Programming,F,0-17,43,0,Florida,Eastern,Retired,Arts,2,427.51
+4468158,Customer_950,C00002,Web Development,M,55+,11,1,Asia,Eastern,Self-Employed,Technology,3,444.05
+3670663,Customer_951,C00002,Web Development,M,0-17,13,1,Asia,Eastern,Unemployed,Technology,2,316.27
+3360749,Customer_952,C00000,Data Science,M,0-17,59,1,Texas,Eastern,Student,Technology,2,235.72
+2146625,Customer_953,C00003,Python Programming,F,36-45,30,1,Florida,Western,Student,Technology,3,115.51
+5313480,Customer_954,C00000,Python Programming,M,36-45,24,0,California,Southern,Unemployed,Technology,1,116.85
+1538907,Customer_955,C00003,Graphic Design,M,36-45,16,0,Texas,Northern,Retired,Technology,4,483.47
+6070699,Customer_956,C00004,Python Programming,M,18-25,53,0,Florida,Southern,Professional,Arts,1,451.33
+9357405,Customer_957,C00004,Data Science,M,55+,53,1,Texas,Eastern,Student,Arts,3,481.21
+5063014,Customer_958,C00000,Data Science,M,18-25,37,0,New York,Southern,Unemployed,Technology,3,292.77
+7763067,Customer_959,C00001,Python Programming,M,46-55,28,1,California,Eastern,Retired,Technology,1,494.81
+3693644,Customer_960,C00001,Python Programming,M,0-17,39,1,Illinois,Western,Self-Employed,Technology,2,363.34
+6367722,Customer_961,C00004,Web Development,F,26-35,59,0,Florida,Western,Professional,Technology,1,368.98
+1362260,Customer_962,C00004,Data Science,M,26-35,11,0,Texas,Central,Unemployed,Technology,2,452.3
+6186774,Customer_963,C00003,Digital Marketing,M,46-55,21,0,Asia,Central,Self-Employed,Technology,4,393.84
+8086503,Customer_964,C00003,Web Development,M,55+,39,0,Florida,Central,Self-Employed,Technology,4,383.58
+5797991,Customer_965,C00001,Data Science,M,26-35,55,1,Asia,Central,Self-Employed,Technology,4,79.71
+3262922,Customer_966,C00002,Data Science,M,18-25,21,0,New York,Southern,Professional,Technology,4,414.7
+7965397,Customer_967,C00001,Graphic Design,F,55+,38,1,Asia,Northern,Unemployed,Technology,2,149.6
+6922263,Customer_968,C00004,Web Development,M,26-35,37,0,California,Northern,Professional,Technology,3,353.07
+3536860,Customer_969,C00001,Data Science,M,18-25,32,1,Texas,Northern,Unemployed,Technology,3,484.73
+8830259,Customer_970,C00004,Web Development,M,36-45,36,1,Asia,Central,Unemployed,Arts,1,379.81
+8754260,Customer_971,C00003,Data Science,M,46-55,45,1,Florida,Central,Retired,Technology,1,326.72
+8742193,Customer_972,C00002,Data Science,M,55+,56,1,Florida,Southern,Student,Business,1,118.58
+8438950,Customer_973,C00002,Digital Marketing,M,18-25,32,0,Florida,Western,Student,Arts,4,175.72
+6580527,Customer_974,C00004,Graphic Design,M,55+,34,0,California,Northern,Unemployed,Technology,1,429.13
+7149968,Customer_975,C00002,Web Development,M,36-45,34,1,Texas,Eastern,Professional,Business,4,479.7
+6517599,Customer_976,C00004,Data Science,M,36-45,23,1,Florida,Southern,Retired,Technology,3,180.17
+1690944,Customer_977,C00003,Web Development,M,26-35,48,0,Asia,Southern,Self-Employed,Technology,4,214.01
+3416683,Customer_978,C00001,Web Development,M,36-45,17,0,Texas,Western,Self-Employed,Technology,4,294.93
+2084498,Customer_979,C00003,Python Programming,M,55+,23,1,Florida,Eastern,Professional,Technology,3,152.65
+5214779,Customer_980,C00003,Web Development,M,26-35,24,1,Texas,Western,Self-Employed,Arts,1,339.72
+5042098,Customer_981,C00001,Python Programming,F,26-35,37,0,Florida,Western,Self-Employed,Business,2,119.51
+5964985,Customer_982,C00002,Web Development,M,46-55,17,0,Illinois,Southern,Retired,Technology,2,136.63
+6558081,Customer_983,C00004,Web Development,F,0-17,31,0,California,Eastern,Retired,Arts,1,393.38
+4889190,Customer_984,C00003,Python Programming,M,0-17,17,0,Asia,Southern,Unemployed,Business,3,120.88
+9844597,Customer_985,C00003,Graphic Design,M,26-35,34,1,Florida,Western,Unemployed,Arts,4,272.08
+9910491,Customer_986,C00004,Web Development,M,36-45,57,0,New York,Eastern,Student,Business,2,429.84
+7459835,Customer_987,C00001,Data Science,F,46-55,31,0,Asia,Western,Professional,Business,1,252.62
+5588814,Customer_988,C00004,Graphic Design,F,0-17,35,1,Texas,Southern,Self-Employed,Technology,3,60.77
+6111533,Customer_989,C00004,Digital Marketing,M,18-25,47,0,Texas,Southern,Self-Employed,Technology,1,111.85
+4220782,Customer_990,C00003,Web Development,F,36-45,58,0,Asia,Central,Professional,Technology,1,188.88
+8551732,Customer_991,C00004,Digital Marketing,M,55+,19,0,California,Eastern,Self-Employed,Business,2,238.05
+2220149,Customer_992,C00000,Graphic Design,F,18-25,17,0,California,Eastern,Professional,Business,4,62.21
+8988913,Customer_993,C00000,Data Science,F,0-17,11,0,Illinois,Eastern,Self-Employed,Business,4,499.95
+5489681,Customer_994,C00000,Web Development,M,46-55,53,1,Texas,Western,Professional,Technology,4,444.78
+1299717,Customer_995,C00003,Python Programming,M,55+,13,1,New York,Northern,Retired,Arts,1,173.15
+4565347,Customer_996,C00003,Digital Marketing,M,55+,49,0,Texas,Central,Professional,Business,1,193.05
+4965838,Customer_997,C00001,Python Programming,M,46-55,41,0,Illinois,Western,Self-Employed,Arts,3,488.36
+5643372,Customer_998,C00001,Graphic Design,M,46-55,30,0,Illinois,Western,Self-Employed,Arts,2,144.55
+8906114,Customer_999,C00003,Web Development,F,55+,31,0,Florida,Northern,Retired,Technology,3,374.9
+4783800,Customer_1000,C00001,Web Development,M,26-35,26,0,Asia,Southern,Unemployed,Technology,4,186.69
+5491773,Customer_1001,C00002,Digital Marketing,M,55+,22,1,New York,Western,Student,Technology,1,285.5
+8225414,Customer_1002,C00001,Digital Marketing,M,46-55,31,0,Illinois,Western,Professional,Business,1,464.85
+2312221,Customer_1003,C00003,Data Science,F,18-25,16,0,Illinois,Eastern,Self-Employed,Arts,1,111.85
+1166613,Customer_1004,C00003,Graphic Design,M,36-45,19,1,Illinois,Northern,Student,Technology,4,282.9
+2816570,Customer_1005,C00003,Digital Marketing,M,55+,48,1,Illinois,Central,Professional,Technology,2,423.21
+1866402,Customer_1006,C00002,Python Programming,F,36-45,20,1,Texas,Central,Professional,Arts,4,65.1
+4870401,Customer_1007,C00000,Python Programming,F,46-55,58,0,California,Eastern,Student,Business,3,402.28
+5806706,Customer_1008,C00003,Web Development,M,55+,40,0,Illinois,Northern,Self-Employed,Technology,4,421.63
+9387608,Customer_1009,C00002,Graphic Design,M,36-45,34,1,Florida,Southern,Professional,Technology,2,301.64
+8620452,Customer_1010,C00004,Data Science,M,26-35,51,0,Texas,Northern,Retired,Technology,4,256.46
+5296131,Customer_1011,C00003,Data Science,M,55+,18,0,New York,Western,Unemployed,Technology,1,412.73
+5330118,Customer_1012,C00001,Data Science,M,36-45,57,0,California,Western,Retired,Technology,2,323.47
+7730782,Customer_1013,C00002,Digital Marketing,M,46-55,49,0,Texas,Central,Retired,Business,2,293.61
+3713879,Customer_1014,C00004,Graphic Design,M,0-17,11,1,California,Central,Self-Employed,Technology,3,263.72
+6801255,Customer_1015,C00001,Graphic Design,M,18-25,21,1,New York,Central,Retired,Technology,3,401.23
+3208894,Customer_1016,C00002,Python Programming,F,55+,37,1,Asia,Central,Self-Employed,Technology,3,303.71
+5723934,Customer_1017,C00000,Data Science,F,36-45,50,1,New York,Eastern,Unemployed,Business,1,81.1
+5993174,Customer_1018,C00001,Python Programming,M,55+,47,0,Illinois,Eastern,Student,Business,3,331.56
+5033974,Customer_1019,C00002,Digital Marketing,M,18-25,43,0,Illinois,Eastern,Retired,Technology,1,66.03
+3072562,Customer_1020,C00000,Web Development,M,55+,42,0,New York,Northern,Student,Technology,4,184.04
+4084717,Customer_1021,C00000,Data Science,M,55+,23,0,Illinois,Western,Professional,Technology,1,111.73
+9879077,Customer_1022,C00001,Python Programming,F,46-55,14,0,California,Northern,Professional,Technology,4,129.53
+7170085,Customer_1023,C00004,Graphic Design,M,55+,45,1,Illinois,Northern,Self-Employed,Arts,3,274.57
+2153859,Customer_1024,C00001,Python Programming,F,26-35,59,1,New York,Southern,Retired,Arts,2,131.93
+5376947,Customer_1025,C00000,Digital Marketing,M,18-25,39,1,Florida,Western,Student,Business,1,313.9
+6807225,Customer_1026,C00002,Data Science,F,0-17,11,0,Illinois,Northern,Retired,Business,4,97.05
+4511274,Customer_1027,C00000,Web Development,M,46-55,20,0,Illinois,Northern,Retired,Arts,1,493.65
+4346165,Customer_1028,C00001,Digital Marketing,F,26-35,16,1,Illinois,Central,Self-Employed,Technology,1,318.24
+2720794,Customer_1029,C00000,Graphic Design,M,18-25,36,1,Texas,Southern,Professional,Technology,2,313.15
+7995918,Customer_1030,C00004,Digital Marketing,F,18-25,51,0,Illinois,Southern,Unemployed,Technology,1,249.53
+5284658,Customer_1031,C00000,Python Programming,F,26-35,40,0,Texas,Eastern,Student,Technology,2,246.71
+7558645,Customer_1032,C00004,Digital Marketing,M,36-45,22,1,Illinois,Eastern,Unemployed,Technology,2,355.91
+1698384,Customer_1033,C00004,Data Science,F,18-25,15,1,California,Western,Self-Employed,Technology,1,80.72
+2733832,Customer_1034,C00002,Python Programming,M,0-17,33,1,Texas,Eastern,Retired,Technology,2,233.44
+8891660,Customer_1035,C00000,Python Programming,M,46-55,42,1,New York,Southern,Retired,Technology,2,274.07
+3093091,Customer_1036,C00002,Data Science,M,36-45,42,1,Florida,Central,Self-Employed,Business,2,217.25
+9693147,Customer_1037,C00003,Python Programming,F,26-35,15,1,New York,Central,Professional,Technology,1,436.09
+2895105,Customer_1038,C00002,Python Programming,M,18-25,44,0,California,Western,Self-Employed,Technology,2,253.32
+4878204,Customer_1039,C00002,Web Development,F,36-45,34,1,Florida,Eastern,Student,Business,4,444.89
+7553718,Customer_1040,C00004,Graphic Design,M,46-55,35,1,Florida,Western,Student,Business,4,439.06
+6109480,Customer_1041,C00004,Digital Marketing,F,26-35,17,1,Texas,Eastern,Unemployed,Business,3,381.57
+6106968,Customer_1042,C00003,Web Development,M,0-17,27,0,New York,Southern,Professional,Technology,4,112.28
+8007018,Customer_1043,C00004,Graphic Design,M,0-17,34,1,Asia,Central,Professional,Technology,2,65.66
+6639402,Customer_1044,C00004,Web Development,M,0-17,24,0,Texas,Southern,Self-Employed,Technology,2,185.88
+8657058,Customer_1045,C00002,Web Development,M,0-17,27,0,California,Western,Student,Business,4,275.17
+8699367,Customer_1046,C00004,Digital Marketing,M,55+,15,1,California,Southern,Professional,Technology,2,364.4
+5858130,Customer_1047,C00000,Python Programming,M,26-35,53,0,Texas,Northern,Student,Technology,2,251.54
+7538101,Customer_1048,C00003,Digital Marketing,M,36-45,43,1,Asia,Eastern,Self-Employed,Arts,4,439.77
+7151805,Customer_1049,C00004,Graphic Design,M,55+,54,0,Asia,Northern,Self-Employed,Technology,1,212.51
+4967843,Customer_1050,C00001,Data Science,M,46-55,47,0,California,Eastern,Student,Technology,1,137.99
+6220887,Customer_1051,C00002,Digital Marketing,F,36-45,30,1,New York,Central,Student,Technology,4,66.29
+3890098,Customer_1052,C00002,Digital Marketing,F,0-17,47,1,Florida,Western,Retired,Technology,4,372.75
+3198840,Customer_1053,C00000,Graphic Design,F,46-55,11,0,California,Northern,Unemployed,Technology,2,283.18
+8463383,Customer_1054,C00001,Python Programming,M,0-17,22,1,California,Southern,Professional,Technology,2,361.18
+9051942,Customer_1055,C00003,Data Science,M,18-25,47,1,Illinois,Northern,Self-Employed,Technology,3,273.13
+5163730,Customer_1056,C00002,Data Science,M,0-17,53,1,Texas,Northern,Self-Employed,Technology,3,153.28
+6775013,Customer_1057,C00000,Data Science,F,18-25,26,0,Asia,Central,Professional,Technology,3,369.35
+7741432,Customer_1058,C00004,Data Science,M,55+,56,0,New York,Northern,Unemployed,Business,2,158.79
+2914284,Customer_1059,C00003,Web Development,F,36-45,52,1,California,Western,Unemployed,Technology,4,272.4
+6588622,Customer_1060,C00002,Graphic Design,M,55+,46,0,Illinois,Eastern,Unemployed,Arts,4,420.45
+1693560,Customer_1061,C00004,Graphic Design,F,26-35,44,0,Texas,Central,Professional,Technology,1,441.5
+8301944,Customer_1062,C00004,Python Programming,M,46-55,10,0,California,Western,Student,Arts,4,235.18
+2941224,Customer_1063,C00000,Data Science,M,0-17,45,0,Florida,Central,Retired,Technology,2,187.72
+5549831,Customer_1064,C00004,Python Programming,F,18-25,24,1,Illinois,Northern,Retired,Business,1,76.68
+9920520,Customer_1065,C00003,Web Development,M,26-35,35,1,California,Northern,Student,Arts,4,452.13
+5820358,Customer_1066,C00004,Data Science,M,26-35,54,1,Florida,Western,Self-Employed,Business,2,394.29
+2693239,Customer_1067,C00002,Graphic Design,M,18-25,56,0,Asia,Western,Retired,Arts,4,229.69
+6336713,Customer_1068,C00003,Data Science,F,26-35,15,0,Asia,Eastern,Retired,Technology,2,244.83
+8365291,Customer_1069,C00003,Digital Marketing,F,18-25,38,0,New York,Western,Student,Technology,4,82.95
+2073055,Customer_1070,C00000,Python Programming,M,46-55,22,1,California,Southern,Unemployed,Arts,3,415.41
+7570899,Customer_1071,C00000,Web Development,M,36-45,58,0,Florida,Eastern,Student,Technology,2,314.48
+4929132,Customer_1072,C00000,Python Programming,F,46-55,48,1,Asia,Southern,Professional,Technology,3,309.68
+3881067,Customer_1073,C00001,Data Science,M,36-45,17,1,Florida,Central,Self-Employed,Arts,3,372.03
+7684983,Customer_1074,C00001,Data Science,M,18-25,29,0,California,Eastern,Unemployed,Technology,2,433.85
+4069679,Customer_1075,C00000,Data Science,M,36-45,51,0,Texas,Eastern,Self-Employed,Business,3,52.05
+2774086,Customer_1076,C00004,Web Development,M,26-35,31,1,Florida,Eastern,Self-Employed,Business,2,96.3
+9877702,Customer_1077,C00004,Graphic Design,M,55+,50,1,New York,Southern,Student,Arts,3,305.3
+7017424,Customer_1078,C00003,Web Development,M,26-35,35,0,New York,Eastern,Student,Business,3,223.71
+2555814,Customer_1079,C00004,Data Science,M,0-17,10,1,Illinois,Southern,Professional,Technology,1,129.9
+5221374,Customer_1080,C00004,Python Programming,F,18-25,32,1,Florida,Eastern,Student,Technology,3,442.85
+4097779,Customer_1081,C00002,Data Science,M,46-55,53,1,Illinois,Western,Retired,Arts,1,480.18
+2008843,Customer_1082,C00003,Graphic Design,M,55+,48,0,Florida,Southern,Professional,Arts,1,120.72
+6577536,Customer_1083,C00000,Digital Marketing,F,18-25,35,1,New York,Southern,Self-Employed,Arts,2,433.82
+1945539,Customer_1084,C00000,Python Programming,F,55+,54,0,Illinois,Southern,Self-Employed,Technology,2,156.39
+8434750,Customer_1085,C00004,Graphic Design,M,0-17,38,0,Illinois,Southern,Professional,Technology,3,485.01
+5396062,Customer_1086,C00000,Web Development,F,55+,11,0,Florida,Southern,Unemployed,Technology,3,481.57
+5213425,Customer_1087,C00000,Digital Marketing,F,36-45,12,1,Asia,Central,Unemployed,Technology,4,305.84
+4830147,Customer_1088,C00004,Python Programming,M,55+,20,1,Illinois,Central,Professional,Business,2,367.68
+5400195,Customer_1089,C00004,Python Programming,F,46-55,55,1,Asia,Northern,Student,Technology,3,363.7
+6662674,Customer_1090,C00000,Python Programming,M,46-55,55,0,New York,Western,Professional,Technology,2,348.07
+1753383,Customer_1091,C00002,Graphic Design,M,26-35,53,1,Asia,Western,Student,Technology,2,341.16
+6033501,Customer_1092,C00003,Data Science,F,0-17,23,0,Illinois,Southern,Student,Business,4,163.74
+3606150,Customer_1093,C00002,Data Science,M,46-55,38,1,Illinois,Central,Unemployed,Technology,2,305.16
+9275509,Customer_1094,C00004,Graphic Design,M,36-45,55,0,Illinois,Eastern,Unemployed,Business,2,386.14
+6108574,Customer_1095,C00003,Graphic Design,F,36-45,11,0,New York,Northern,Student,Technology,2,478.8
+3379673,Customer_1096,C00002,Data Science,M,46-55,47,1,Texas,Northern,Professional,Technology,2,172.64
+5631998,Customer_1097,C00001,Data Science,M,18-25,46,1,Asia,Eastern,Professional,Technology,4,389.53
+4773927,Customer_1098,C00002,Python Programming,M,26-35,48,0,Illinois,Central,Retired,Technology,2,140.04
+1512059,Customer_1099,C00000,Graphic Design,F,46-55,44,1,Florida,Southern,Unemployed,Technology,4,495.47
+4883653,Customer_1100,C00000,Web Development,F,0-17,50,0,New York,Eastern,Professional,Arts,1,239.99
+1301718,Customer_1101,C00000,Digital Marketing,F,36-45,50,1,Illinois,Southern,Self-Employed,Technology,1,382.39
+9305915,Customer_1102,C00004,Python Programming,M,0-17,44,1,Asia,Western,Professional,Technology,4,149.25
+4024590,Customer_1103,C00000,Digital Marketing,M,36-45,57,1,New York,Eastern,Professional,Arts,2,305.39
+7515556,Customer_1104,C00003,Digital Marketing,M,18-25,36,1,California,Northern,Retired,Arts,4,387.74
+2363220,Customer_1105,C00002,Web Development,M,26-35,53,0,Texas,Eastern,Retired,Business,1,388.13
+1191365,Customer_1106,C00002,Digital Marketing,M,46-55,35,0,California,Western,Self-Employed,Arts,3,366.31
+6627262,Customer_1107,C00004,Data Science,M,55+,35,0,Illinois,Central,Unemployed,Business,2,192.64
+1870227,Customer_1108,C00003,Digital Marketing,M,46-55,16,1,New York,Southern,Student,Technology,4,246.31
+7617870,Customer_1109,C00003,Web Development,F,26-35,25,1,Illinois,Eastern,Self-Employed,Technology,1,107
+9292427,Customer_1110,C00003,Web Development,M,55+,56,0,Illinois,Northern,Retired,Technology,3,297.45
+3623109,Customer_1111,C00001,Graphic Design,F,46-55,40,0,Asia,Eastern,Student,Business,1,237.76
+5173714,Customer_1112,C00000,Python Programming,M,36-45,17,1,Florida,Central,Unemployed,Technology,1,63.01
+3245905,Customer_1113,C00001,Graphic Design,M,46-55,23,0,Texas,Southern,Self-Employed,Technology,1,145.96
+4256611,Customer_1114,C00002,Web Development,M,18-25,33,0,Florida,Western,Student,Technology,3,105.84
+2126837,Customer_1115,C00004,Python Programming,M,0-17,54,1,Texas,Eastern,Unemployed,Arts,2,88.03
+8219649,Customer_1116,C00003,Python Programming,M,36-45,37,0,New York,Western,Student,Technology,1,66.5
+7171188,Customer_1117,C00000,Graphic Design,F,46-55,20,0,Texas,Northern,Student,Technology,3,293.48
+9903480,Customer_1118,C00001,Data Science,M,18-25,46,1,Texas,Southern,Self-Employed,Technology,2,419.46
+1822929,Customer_1119,C00001,Data Science,M,46-55,35,1,Florida,Central,Student,Arts,2,413.06
+1558035,Customer_1120,C00000,Web Development,M,36-45,24,1,New York,Southern,Retired,Arts,2,68.91
+2839786,Customer_1121,C00002,Digital Marketing,M,26-35,43,0,Asia,Northern,Student,Arts,4,134.41
+7765447,Customer_1122,C00000,Web Development,F,55+,51,0,Texas,Western,Self-Employed,Technology,4,100.7
+6287739,Customer_1123,C00002,Web Development,F,55+,49,0,Texas,Eastern,Professional,Technology,3,165.59
+1626816,Customer_1124,C00003,Data Science,M,36-45,48,1,California,Western,Self-Employed,Technology,1,179.51
+4526134,Customer_1125,C00003,Web Development,M,0-17,41,1,Texas,Western,Professional,Technology,4,132.03
+8005877,Customer_1126,C00002,Data Science,F,26-35,29,1,Illinois,Northern,Self-Employed,Business,1,364.64
+7194094,Customer_1127,C00002,Web Development,F,18-25,20,1,Illinois,Northern,Retired,Business,3,228.25
+2834092,Customer_1128,C00003,Graphic Design,M,18-25,35,1,Asia,Central,Unemployed,Technology,4,73.96
+5726535,Customer_1129,C00004,Digital Marketing,F,55+,48,1,Florida,Central,Self-Employed,Technology,4,236.23
+3518434,Customer_1130,C00003,Graphic Design,F,0-17,18,0,Texas,Northern,Unemployed,Business,1,418.17
+9149575,Customer_1131,C00002,Digital Marketing,F,55+,48,0,New York,Southern,Retired,Technology,3,174.83
